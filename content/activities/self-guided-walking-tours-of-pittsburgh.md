@@ -60,3 +60,5 @@ The South Side is a lively neighborhood with a mix of historic sites and scenic 
 - **Take Your Time:** One of the best parts of a self-guided tour is that you can go at your own pace. Stop for coffee, take photos, and enjoy the scenery.
 
 Exploring Pittsburgh on foot is one of the best ways to see the city's unique neighborhoods and hidden treasures. Whether you're interested in history, food, or art, these self-guided walking tours will help you discover what makes Pittsburgh special.
+
+[Browse Guided Tours in Pittsburgh](https://wegotrip.tpo.mx/8gQKSOO6)
