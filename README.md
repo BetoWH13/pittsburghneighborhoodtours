@@ -1,4 +1,4 @@
-# Pittsburgh Neighborhood Tours
+# Pittsburgh Neighborhood Tours 🏙️
 
 A modern static website built with Next.js, featuring curated neighborhood tours and guides for Pittsburgh, PA. Originally a WordPress site at [pittsburghneighborhoodtours.com](https://pittsburghneighborhoodtours.com), now converted to a fast, static Next.js application.
 
