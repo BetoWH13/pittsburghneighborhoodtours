@@ -46,6 +46,7 @@ Once you've booked your no prepayment hotel, it's time to experience the best of
 
 ## Make the Most of Your Pittsburgh Trip!
 
+- [Find cheap flights to Pittsburgh](https://aviasales.tpo.mx/ECbnq2rn) and save on airfare.
 - Book your no prepayment hotel and avoid hidden fees.
 - Join a Pittsburgh Neighborhood Tour for a deep dive into the city.
 - Experience the best of Pittsburgh's food, history, and culture.

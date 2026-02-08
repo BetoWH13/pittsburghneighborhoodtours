@@ -95,4 +95,4 @@ A family-friendly neighborhood with a strong sense of community and Jewish herit
 
 Pittsburgh's neighborhoods each tell a story, reflecting the city's rich history and dynamic present. Whether you're gazing at the skyline from Mount Washington, savoring pierogies in the Strip District, or exploring cutting-edge art in [Lawrenceville](https://pittsburghneighborhoodtours.com/lawrenceville/), you'll find that Pittsburgh welcomes visitors with open arms and authentic experiences. By choosing the right neighborhood to stay in, you'll immerse yourself in the local culture and make the most of your time in this remarkable city.
 
-[Plan your visit to Pittsburgh today](https://hotellook.tp.st/tlaA5A3h) and discover the unique charms of its neighborhoods firsthand!
+[Find flights to Pittsburgh](https://aviasales.tpo.mx/ECbnq2rn) | [Plan your visit to Pittsburgh today](https://hotellook.tp.st/tlaA5A3h) and discover the unique charms of its neighborhoods firsthand!
