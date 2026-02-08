@@ -96,6 +96,11 @@ function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-600 mt-8 pt-8 text-center text-sm text-gray-400">
+          <div className="flex flex-wrap justify-center gap-4 mb-4">
+            <a href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</a>
+            <span>|</span>
+            <a href="/affiliate-disclosure" className="hover:text-white transition-colors">Affiliate Disclosure</a>
+          </div>
           <p>&copy; {new Date().getFullYear()} Pittsburgh Neighborhood Tours. All rights reserved.</p>
         </div>
       </div>
