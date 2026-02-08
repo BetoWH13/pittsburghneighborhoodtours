@@ -29,7 +29,7 @@ export default function Home() {
               Explore Neighborhoods
             </a>
             <a
-              href="https://hotellook.tp.st/tlaA5A3h"
+              href="https://trip.tpo.mx/j6OajJW1"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-gold text-gold hover:bg-gold hover:text-primary px-8 py-3 rounded-lg font-semibold transition-colors"

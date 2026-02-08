@@ -21,6 +21,8 @@ Located in the heart of the Strip District, the Hampton Inn & Suites offers comf
 - **Convenient Location:** Close to the David L. Lawrence Convention Center and Cultural District.
 - **Parking:** Complimentary on-site parking, a rarity in downtown hotels.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 2. Drury Plaza Hotel Pittsburgh Downtown
 
 **Location:** 745 Grant St, Pittsburgh, PA 15219
@@ -33,6 +35,8 @@ The Drury Plaza Hotel is housed in the historic Federal Reserve Bank building, o
 - **Indoor/Outdoor Pool:** A rooftop pool with city views.
 - **Historic Setting:** Beautiful architecture with modern renovations.
 - **Central Location:** Walking distance to Point State Park and Market Square.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 3. Holiday Inn Express & Suites Pittsburgh North Shore
 
@@ -47,6 +51,8 @@ Situated on the North Shore, this hotel offers easy access to PNC Park, Heinz Fi
 - **River Views:** Some rooms offer views of the Allegheny River and city skyline.
 - **Shuttle Service:** Complimentary shuttle to nearby attractions.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 4. Comfort Inn & Suites Pittsburgh
 
 ### Overview
@@ -56,6 +62,8 @@ A reliable choice for budget-conscious travelers, offering clean rooms and frien
 - **Affordable Rates:** Consistently competitive pricing.
 - **Free Amenities:** Complimentary breakfast, Wi-Fi, and parking.
 - **Family-Friendly:** Spacious rooms suitable for families.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 5. Quality Inn University Center
 
@@ -67,6 +75,8 @@ Located near Oakland's university campuses, this hotel is perfect for those visi
 - **Budget-Friendly:** Affordable rates with essential amenities.
 - **Museum Access:** Near the Carnegie Museums and Phipps Conservatory.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## Tips for Booking Budget-Friendly Accommodations
 
 - **Book in Advance:** Secure better rates by booking early.
@@ -77,4 +87,4 @@ Located near Oakland's university campuses, this hotel is perfect for those visi
 
 ## Conclusion
 
-Finding affordable accommodations in Pittsburgh doesn't mean you have to compromise on comfort or convenience. The city offers a [range of hotels](https://hotellook.tp.st/tlaA5A3h) that provide excellent amenities, friendly service, and prime locations — all at budget-friendly prices. By choosing any of these options, you can enjoy all that Pittsburgh has to offer while staying within your travel budget.
+Finding affordable accommodations in Pittsburgh doesn't mean you have to compromise on comfort or convenience. The city offers a [range of hotels](https://trip.tpo.mx/j6OajJW1) that provide excellent amenities, friendly service, and prime locations — all at budget-friendly prices. By choosing any of these options, you can enjoy all that Pittsburgh has to offer while staying within your travel budget.

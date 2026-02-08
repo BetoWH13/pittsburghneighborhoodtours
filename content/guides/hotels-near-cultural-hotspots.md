@@ -20,6 +20,8 @@ Housed in the historic Fulton Building, the Renaissance Pittsburgh Hotel combine
 - **Heinz Hall for the Performing Arts:** Home to the Pittsburgh Symphony Orchestra, a 3-minute walk from the hotel.
 - **August Wilson African American Cultural Center:** Showcasing art and performances celebrating African American culture, a 5-minute walk away.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 2. Fairmont Pittsburgh
 
 **Location:** 510 Market St, Pittsburgh, PA 15222
@@ -31,6 +33,8 @@ The Fairmont Pittsburgh offers upscale accommodations in the heart of downtown, 
 - **Andy Warhol Museum:** The largest museum dedicated to a single artist in North America, a short drive or bus ride away.
 - **Cultural District Galleries:** Multiple galleries within walking distance showcasing local and international art.
 - **Point State Park:** A historic park at the confluence of the three rivers, perfect for a cultural stroll.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 3. Kimpton Hotel Monaco Pittsburgh
 
@@ -44,6 +48,8 @@ The Kimpton Hotel Monaco combines historic architecture with bold, contemporary 
 - **ToonSeum:** A museum dedicated to cartoon art, within walking distance.
 - **Wood Street Galleries:** Featuring contemporary art exhibitions, a short walk from the hotel.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 4. The Westin Pittsburgh
 
 **Location:** 1000 Penn Ave, Pittsburgh, PA 15222
@@ -55,6 +61,8 @@ Located in the Convention Center District, The Westin Pittsburgh provides a comf
 - **Senator John Heinz History Center:** The largest history museum in Pennsylvania, adjacent to the hotel.
 - **Strip District Markets:** A cultural experience in itself, with food vendors and artisan shops.
 - **Pittsburgh Playhouse:** Offering theatrical performances and art exhibitions.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 5. Hotel Indigo Pittsburgh East Liberty
 
@@ -68,6 +76,8 @@ Situated in the revitalized East Liberty neighborhood, Hotel Indigo offers a bou
 - **Pittsburgh Glass Center:** Offering glassblowing classes and exhibitions, a short drive away.
 - **Bakery Square:** A mixed-use development with shops, restaurants, and cultural events.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## Tips for Exploring Pittsburgh's Art Scene
 
 - **Museum Hours and Tickets:** Check the operating hours and ticketing policies of museums and galleries in advance. Some offer free admission on certain days.
@@ -78,4 +88,4 @@ Situated in the revitalized East Liberty neighborhood, Hotel Indigo offers a bou
 
 ## Conclusion
 
-Pittsburgh's art scene is a vibrant mosaic of history, innovation, and expression. [By choosing accommodations](https://hotellook.tp.st/tlaA5A3h) near cultural hotspots, you immerse yourself in the city's creative pulse. Whether you're an avid art collector, a casual museum-goer, or someone seeking inspiration, these hotels provide the perfect launchpad for your artistic adventures in the Steel City.
+Pittsburgh's art scene is a vibrant mosaic of history, innovation, and expression. [By choosing accommodations](https://trip.tpo.mx/j6OajJW1) near cultural hotspots, you immerse yourself in the city's creative pulse. Whether you're an avid art collector, a casual museum-goer, or someone seeking inspiration, these hotels provide the perfect launchpad for your artistic adventures in the Steel City.

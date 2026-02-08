@@ -25,6 +25,8 @@ Opened in 1916, the Omni William Penn Hotel is a grand icon of Pittsburgh's hist
 - Multiple dining options, including the Terrace Room, offering fine dining in an elegant setting.
 - Fitness center and complimentary Wi-Fi.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 2. The Renaissance Pittsburgh Hotel
 
 **Location:** 107 6th St, Pittsburgh, PA 15222
@@ -40,6 +42,8 @@ Set in the historic Fulton Building constructed in 1906, the Renaissance Pittsbu
 - Stylish rooms with river or city views.
 - On-site restaurants serving local cuisine.
 - Fitness facilities and event spaces.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 3. The Priory Hotel
 
@@ -57,6 +61,8 @@ Originally built in 1888 as a Benedictine monastery, The Priory Hotel is a bouti
 - Complimentary breakfast served in the Refectory.
 - The Monks' Bar, a quaint spot for cocktails.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 4. Mansions on Fifth Luxury Hotel
 
 **Location:** 5105 Fifth Ave, Pittsburgh, PA 15232
@@ -72,6 +78,8 @@ Set in two historic mansions built in the early 1900s, Mansions on Fifth offers 
 - Luxurious suites with period decor.
 - Butler's Pantry offering refreshments.
 - Access to the Oak Room bar and outdoor terraces.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 5. The Inn on Negley
 
@@ -89,6 +97,8 @@ A beautifully restored period home from the late 19th century, The Inn on Negley
 - Gourmet breakfast and afternoon tea.
 - Complimentary Wi-Fi and parking.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 6. Kimpton Hotel Monaco Pittsburgh
 
 **Location:** 620 William Penn Pl, Pittsburgh, PA 15219
@@ -104,6 +114,8 @@ Housed in the historic James H. Reed Building from 1903, the Kimpton Hotel Monac
 - Stylish rooms with eclectic decor.
 - The Commoner, an on-site restaurant offering modern American fare.
 - Rooftop social hour and pet-friendly policies.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 7. Ace Hotel Pittsburgh
 
@@ -121,6 +133,8 @@ Located in a former YMCA building dating back to 1909, the Ace Hotel embraces th
 - Whitfield restaurant serving locally sourced cuisine.
 - Event spaces hosting cultural and social events.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 8. Distrikt Hotel Pittsburgh, Curio Collection by Hilton
 
 *Note: The hotel was previously known as Distrikt Hotel; confirm current status.*
@@ -136,6 +150,8 @@ Occupying the historic Salvation Army Building from 1924, the Distrikt Hotel off
 - Chic rooms with modern amenities.
 - Or, The Whale — a seafood and chophouse restaurant.
 - Evangeline cocktail bar offering craft drinks.
+
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
 
 ## 9. Morning Glory Inn
 
@@ -153,6 +169,8 @@ Situated in a restored Victorian townhouse from the 1860s, the Morning Glory Inn
 - Complimentary breakfast in a cozy dining room.
 - Courtyard garden for relaxation.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## 10. The Parador Inn
 
 ### Overview
@@ -167,6 +185,8 @@ Housed in a mansion built in 1870, The Parador Inn offers a Caribbean-themed get
 - Gardens and patios for guest use.
 - Close proximity to attractions like the Carnegie Science Center and Heinz Field.
 
+[Check Availability & Book](https://trip.tpo.mx/j6OajJW1)
+
 ## Tips for Experiencing Pittsburgh's History
 
 - **Explore Beyond the Hotels:** Visit nearby historical sites like the Fort Pitt Block House, the oldest architectural landmark in Pittsburgh, and the Cathedral of Learning at the University of Pittsburgh.
@@ -177,4 +197,4 @@ Housed in a mansion built in 1870, The Parador Inn offers a Caribbean-themed get
 
 ## Conclusion
 
-Staying in one of Pittsburgh's historic hotels allows you to immerse yourself in the city's rich past while enjoying the conveniences of the present. Each hotel offers a unique story, architectural beauty, and a connection to the events and people that shaped the city. Whether you're a history buff, an architecture enthusiast, or simply seeking a memorable stay, [these hotels provide an experience that goes beyond ordinary accommodations.](https://hotellook.tp.st/tlaA5A3h)
+Staying in one of Pittsburgh's historic hotels allows you to immerse yourself in the city's rich past while enjoying the conveniences of the present. Each hotel offers a unique story, architectural beauty, and a connection to the events and people that shaped the city. Whether you're a history buff, an architecture enthusiast, or simply seeking a memorable stay, [these hotels provide an experience that goes beyond ordinary accommodations.](https://trip.tpo.mx/j6OajJW1)
