@@ -8,6 +8,16 @@ tags: ["Pittsburgh weekend itinerary", "things to do in Pittsburgh", "Pittsburgh
 
 Pittsburgh is a city that rewards the curious. Its 90 neighborhoods are stacked on hillsides and tucked into river valleys, connected by hundreds of bridges — more bridges than Venice, a fact Pittsburghers will tell you approximately once per conversation. A weekend here isn't enough to see everything, but if you plan it right, 48 hours will leave you understanding why people who come to visit often end up deciding to stay.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| ⏱️ Duration | Full weekend (2 days) |
+| 🎯 Best For | Foodies |
+| 💰 Cost | Free or low cost |
+| ⭐ Highlight | Carnegie Museum of Natural History |
+
+</div>
 Here's how to spend a perfect Pittsburgh weekend.
 
 ## Saturday
@@ -74,3 +84,18 @@ End the weekend with the view that defines Pittsburgh. Take the **Duquesne Incli
 Stay for sunset if the timing is right. There are few better views in American cities than Pittsburgh from the top of Mount Washington on a clear evening, with the gold and red light catching the rivers.
 
 Then come back. Pittsburgh has more weekends to offer. [Find where to stay and plan your trip](https://trip.tpo.mx/j6OajJW1).
+---
+
+## Frequently Asked Questions
+
+#### Do I need to book in advance?
+Most outdoor activities and self-guided options require no advance booking. For popular restaurants, museum tickets on busy weekends, or stadium games, booking ahead is strongly recommended.
+
+#### Is Pittsburgh easy to navigate as a first-time visitor?
+Yes, with some planning. Downtown and the North Shore are very walkable. The East End neighborhoods are best reached by bus or car. Pittsburgh's geography — hills, bridges, rivers — is part of the experience, not an obstacle.
+
+#### What is the best time of year to visit Pittsburgh?
+Late spring (May–June) and fall (September–October) offer the best weather and the most outdoor events. Summer brings festivals and baseball. Winter is cold but the holiday lights along the river are genuinely beautiful.
+
+#### Where should I stay in Pittsburgh?
+Downtown hotels put you close to most major attractions. For a longer stay, the East End (Oakland, Shadyside, Squirrel Hill) neighborhoods offer a more residential feel. [Find Pittsburgh accommodation here](https://trip.tpo.mx/j6OajJW1).

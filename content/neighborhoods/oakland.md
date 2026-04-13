@@ -8,6 +8,17 @@ tags: ["Oakland", "Pittsburgh Neighborhoods", "University of Pittsburgh", "Carne
 
 Oakland stands as one of Pittsburgh's most vibrant and dynamic neighborhoods, known for its prestigious universities, world-class museums, lush green spaces, and rich cultural heritage. As the city's academic and medical hub, Oakland is a bustling community where innovation meets tradition, offering visitors and residents alike a unique blend of intellectual, cultural, and recreational experiences.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 📍 Location | Just east of Downtown Pittsburgh, Oakland is easily accessible by car, bus, or bike. |
+| 🎯 Best For | Foodies, Art & culture, Outdoor enthusiasts |
+| ✨ Vibe | Trendy & creative |
+| 🚌 Getting There | The neighborhood is very walkable, with most attractions, restaurants, and parks located within a short distance of each other |
+| ⭐ Don't Miss | Location: |
+
+</div>
 ## A Hub of Knowledge and Innovation
 
 At the heart of Oakland are two of the city's most prominent institutions: the University of Pittsburgh and Carnegie Mellon University. These world-renowned universities infuse the neighborhood with youthful energy, cutting-edge research, and a strong sense of community. The iconic Cathedral of Learning, a towering 42-story Gothic Revival building, is the centerpiece of the University of Pittsburgh's campus and a symbol of the neighborhood's academic excellence. Inside, the Nationality Rooms offer a glimpse into the diverse cultures that have shaped both Pittsburgh and the world, each classroom representing a different country's heritage.
@@ -40,3 +51,18 @@ Another gem in Oakland is Panther Hollow, a picturesque ravine within Schenley P
 - **Public Transit:** Oakland is well-served by Pittsburgh's public transit system, with frequent bus service connecting it to other parts of the city.
 
 Oakland is more than just a neighborhood—it's a microcosm of Pittsburgh's academic, cultural, and social life. Whether you're here to explore its museums, enjoy a walk in the park, or experience the buzz of university life, Oakland offers an enriching and unforgettable experience.
+---
+
+## Frequently Asked Questions
+
+#### Is Oakland worth visiting?
+Absolutely. Oakland is one of Pittsburgh's most distinctive neighborhoods, offering a combination of history, dining, and local character that rewards visitors who take time to explore beyond the main streets.
+
+#### Are there outdoor activities nearby?
+Yes — Pittsburgh's neighborhoods are generally well connected to the city's extensive park system. See the parks section above for specific recommendations.
+
+#### How do I get around Pittsburgh without a car?
+Pittsburgh Port Authority (PAT) buses connect all major neighborhoods. The free **T** light rail covers Downtown and the South Hills. Many East End neighborhoods — Oakland, Squirrel Hill, Lawrenceville — are walkable once you arrive.
+
+#### Where should I stay when visiting Pittsburgh?
+Downtown and the North Shore put you within walking distance of the stadiums and major attractions. For a more neighborhood feel, look for accommodation in the East End near Oakland or Shadyside. [Browse Pittsburgh hotel options here](https://trip.tpo.mx/j6OajJW1).

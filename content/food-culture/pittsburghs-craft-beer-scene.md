@@ -8,6 +8,16 @@ tags: ["Pittsburgh craft beer", "Pittsburgh breweries", "Lawrenceville", "Church
 
 Pittsburgh has always been a beer city. Long before craft brewing was a trend, the Iron City Brewing Company was pouring lagers for steelworkers, and neighborhood taverns were as essential to the city's social fabric as the churches they sat across from. That tradition didn't disappear when the mills closed — it evolved. Today, Pittsburgh's craft brewery scene is one of the most geographically diverse and character-rich in the Mid-Atlantic, spread across neighborhoods from Lawrenceville to the North Side to the South Hills.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 🍽️ Type | Bars & Drinks |
+| 🎯 Best For | History lovers, Nightlife seekers |
+| 💰 Price Range | $ — Budget-friendly |
+| ⭐ Must Try | Before a Pirates game: |
+
+</div>
 Here's where to start.
 
 ### Church Brew Works — Lawrenceville
@@ -52,3 +62,15 @@ No Pittsburgh beer story is complete without **Iron City**. The **Pittsburgh Bre
 - **East End afternoon:** East End Brewing taproom near Bakery Square
 
 Pittsburgh's brewing geography mirrors its neighborhood geography — every district has its own place to drink, and each one has a story. [Explore the city and find your local](https://trip.tpo.mx/j6OajJW1).
+---
+
+## Frequently Asked Questions
+
+#### Is this a Pittsburgh-only experience?
+Very much so. Pittsburgh's food culture is deeply tied to its industrial and immigrant history, and many of the dishes and establishments described here are unique to the city.
+
+#### What is Pittsburgh's most iconic food?
+The Primanti Brothers sandwich — stuffed with coleslaw and french fries — is the undisputed symbol of Pittsburgh food culture. But pierogies, kielbasa, and Heinz ketchup are all deeply Pittsburgh too.
+
+#### Where is the best neighborhood to eat in Pittsburgh?
+Lawrenceville on Butler Street is currently the most exciting dining neighborhood. The Strip District is essential for market food on Saturday mornings. Bloomfield (Little Italy) and Squirrel Hill each have long-established dining traditions.

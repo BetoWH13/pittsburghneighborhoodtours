@@ -45,6 +45,53 @@
   .prose h4 {
     @apply text-lg font-semibold text-secondary mt-6 mb-2;
   }
+
+  /* Tables */
+  .prose table {
+    @apply w-full border-collapse text-sm mb-6 rounded-lg overflow-hidden shadow-sm;
+  }
+  .prose thead {
+    @apply bg-primary text-white;
+  }
+  .prose th {
+    @apply px-4 py-3 text-left font-semibold text-sm tracking-wide;
+  }
+  .prose td {
+    @apply px-4 py-3 border-b border-gray-200 text-gray-700;
+  }
+  .prose tbody tr:nth-child(even) {
+    @apply bg-gray-50;
+  }
+  .prose tbody tr:hover {
+    @apply bg-yellow-50 transition-colors;
+  }
+
+  /* Blockquotes — styled as info/summary callouts */
+  .prose blockquote {
+    @apply border-l-4 border-gold bg-amber-50 px-5 py-4 my-6 rounded-r-lg not-italic;
+  }
+  .prose blockquote p {
+    @apply text-gray-800 mb-0 font-medium;
+  }
+
+  /* FAQ section — h4 questions with styled answer paragraphs */
+  .prose .faq-section h4 {
+    @apply text-base font-bold text-primary mt-5 mb-1 pl-4 border-l-4 border-accent;
+  }
+  .prose .faq-section p {
+    @apply text-gray-600 text-sm pl-4;
+  }
+
+  /* Summary box — a div wrapping a table at article top */
+  .prose .summary-box {
+    @apply bg-gray-50 border border-gray-200 rounded-xl p-1 mb-8 shadow-sm;
+  }
+  .prose .summary-box table {
+    @apply shadow-none mb-0;
+  }
+  .prose .summary-box thead {
+    @apply bg-secondary;
+  }
 }
 
 .hero-gradient {

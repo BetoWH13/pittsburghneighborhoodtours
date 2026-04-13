@@ -8,6 +8,17 @@ tags: ["Squirrel Hill", "Pittsburgh Neighborhoods", "Pittsburgh East End", "Fric
 
 Ask any Pittsburgher to name the city's most livable neighborhood and Squirrel Hill is almost always in the conversation. Tucked in Pittsburgh's East End between Schenley Park and Frick Park, this dense, walkable community has been one of the most stable and beloved neighborhoods in the city for over a century — a place where generations of families have put down roots and never quite found a reason to leave.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 📍 Location | Pittsburgh, PA |
+| 🎯 Best For | History lovers, Foodies, Outdoor enthusiasts |
+| ✨ Vibe | Historic & charming |
+| 🚌 Getting There | Bus or car from Downtown Pittsburgh |
+| ⭐ Don't Miss | Milky Way Restaurant: |
+
+</div>
 Squirrel Hill is best known for its long-established Jewish community, its two commercial corridors on Forbes and Murray Avenues, its extraordinary access to greenspace, and — perhaps most importantly to Pittsburghers of a certain age — being the real-life home of Fred Rogers, better known as Mister Rogers. He lived and worked in the neighborhood for decades, and his presence shaped its character in ways both visible and invisible.
 
 ### Forbes and Murray: The Commercial Heart
@@ -42,3 +53,18 @@ The **Frick Environmental Center**, opened in 2019, is a net-zero-energy buildin
 Squirrel Hill is easily reached by taking Forbes Avenue east from Oakland (about 15 minutes), or via the **61A, 61B, 61C, or 61D** bus routes that run frequently from Downtown through Oakland and into Squirrel Hill. Parking is available on residential streets and in a few lots near the Forbes/Murray intersection.
 
 Squirrel Hill doesn't make a lot of noise about itself — it doesn't need to. It just keeps being one of the best urban neighborhoods in the country, decade after decade. Come for the food, stay for the park, and leave understanding a little more about what makes Pittsburgh different. [Find your perfect Pittsburgh home base](https://trip.tpo.mx/j6OajJW1).
+---
+
+## Frequently Asked Questions
+
+#### Is Squirrel Hill worth visiting?
+Absolutely. Squirrel Hill is one of Pittsburgh's most distinctive neighborhoods, offering a combination of history, dining, and local character that rewards visitors who take time to explore beyond the main streets.
+
+#### Are there outdoor activities nearby?
+Yes — Pittsburgh's neighborhoods are generally well connected to the city's extensive park system. See the parks section above for specific recommendations.
+
+#### How do I get around Pittsburgh without a car?
+Pittsburgh Port Authority (PAT) buses connect all major neighborhoods. The free **T** light rail covers Downtown and the South Hills. Many East End neighborhoods — Oakland, Squirrel Hill, Lawrenceville — are walkable once you arrive.
+
+#### Where should I stay when visiting Pittsburgh?
+Downtown and the North Shore put you within walking distance of the stadiums and major attractions. For a more neighborhood feel, look for accommodation in the East End near Oakland or Shadyside. [Browse Pittsburgh hotel options here](https://trip.tpo.mx/j6OajJW1).

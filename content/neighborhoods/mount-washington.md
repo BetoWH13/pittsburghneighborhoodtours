@@ -8,6 +8,17 @@ tags: ["Mount Washington", "Pittsburgh Neighborhoods", "Duquesne Incline", "Gran
 
 Perched high above the city, Mount Washington offers some of the most breathtaking views of Pittsburgh's iconic skyline. This neighborhood, known for its stunning overlooks, historic inclines, and charming residential streets, is a must-visit for anyone looking to experience the beauty and spirit of the Steel City from a whole new perspective.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 📍 Location | Just a short ride from Downtown Pittsburgh, Mount Washington is easily accessible by car, bus, or incline. |
+| 🎯 Best For | History lovers, Foodies |
+| ✨ Vibe | Historic & charming |
+| 🚌 Getting There | The neighborhood is walkable, with most attractions located along or near Grandview Avenue and Shiloh Street |
+| ⭐ Don't Miss | Location: |
+
+</div>
 ## A View Like No Other
 
 Mount Washington is perhaps best known for its panoramic vistas, and there's no better way to take in the city's grandeur than from one of the neighborhood's famous overlooks. Grandview Avenue, aptly named, runs along the edge of the hilltop and features several observation decks that provide sweeping views of Pittsburgh's downtown, the confluence of its three rivers, and the many bridges that span the waterways. These views are particularly magical at sunset or as the city lights up at night, making Mount Washington a favorite spot for both photographers and romantics.
@@ -41,3 +52,21 @@ Mount Washington isn't just a place to visit—it's a place to celebrate. The ne
 - **Best Views:** For the best photos, visit the overlooks at sunrise or sunset when the city is bathed in golden light.
 
 Mount Washington offers a perfect blend of natural beauty, historic charm, and modern amenities. Whether you're here to take in the view, enjoy a delicious meal, or simply stroll through the neighborhood, Mount Washington invites you to see Pittsburgh from a whole new angle.
+---
+
+## Frequently Asked Questions
+
+#### Is Mount Washington worth visiting?
+Absolutely. Mount Washington is one of Pittsburgh's most distinctive neighborhoods, offering a combination of history, dining, and local character that rewards visitors who take time to explore beyond the main streets.
+
+#### What are the best places to eat in Mount Washington?
+The neighborhood has a strong independent dining scene. The food and dining sections above highlight the most essential stops — from long-standing institutions to newer favorites.
+
+#### Are there outdoor activities nearby?
+Yes — Pittsburgh's neighborhoods are generally well connected to the city's extensive park system. See the parks section above for specific recommendations.
+
+#### How do I get around Pittsburgh without a car?
+Pittsburgh Port Authority (PAT) buses connect all major neighborhoods. The free **T** light rail covers Downtown and the South Hills. Many East End neighborhoods — Oakland, Squirrel Hill, Lawrenceville — are walkable once you arrive.
+
+#### Where should I stay when visiting Pittsburgh?
+Downtown and the North Shore put you within walking distance of the stadiums and major attractions. For a more neighborhood feel, look for accommodation in the East End near Oakland or Shadyside. [Browse Pittsburgh hotel options here](https://trip.tpo.mx/j6OajJW1).

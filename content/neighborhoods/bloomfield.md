@@ -8,6 +8,17 @@ tags: ["Bloomfield", "Little Italy", "Pittsburgh Neighborhoods"]
 
 Welcome to Bloomfield, or as the locals might say, Benvenuto a Bloomfield! This lively neighborhood, affectionately known as Pittsburgh's Little Italy, is a colorful blend of old-world charm and modern-day vibrancy. From the moment you enter through the grand Liberty Avenue gateway, where bold signs proudly announce your arrival, you'll know you're in a place steeped in rich cultural heritage. Red, white, and green stripes adorn fire hydrants, street curbs, and lamp posts, and the names of long-standing family businesses like Cercone, D'Amico, and Lombardozzi are proudly displayed on storefronts throughout the neighborhood.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 📍 Location | Just 3 miles from Downtown Pittsburgh, Bloomfield is easily accessible by car or bus. Once you're there, the neighborhood's compact layout makes it a breeze to explore on foot. |
+| 🎯 Best For | History lovers, Foodies, Art & culture |
+| ✨ Vibe | Trendy & creative |
+| 🚌 Getting There | Major streets include Liberty Avenue, Main Street, Baum Boulevard, and Friendship Avenue |
+| ⭐ Don't Miss | Location: |
+
+</div>
 But there's more to Bloomfield than its Italian roots—this is a community that welcomes all, offering a diverse array of dining, shopping, and cultural experiences.
 
 ### A Rich Historical Tapestry
@@ -40,3 +51,21 @@ And if you're in the mood for something a little different, Bloomfield's arts an
 Bloomfield isn't just a neighborhood; it's a celebration of Pittsburgh's diverse cultural heritage. Whether you're drawn by the promise of authentic Italian cuisine, the charm of historic streets, or the allure of vibrant community life, Bloomfield invites you to discover its unique character.
 
 Ready to explore Bloomfield? There's no better time to experience the flavors, sights, and sounds that make this Pittsburgh neighborhood a true gem. [Let's create your own Pittsburgh story together](https://trip.tpo.mx/j6OajJW1).
+---
+
+## Frequently Asked Questions
+
+#### Is Bloomfield worth visiting?
+Absolutely. Bloomfield is one of Pittsburgh's most distinctive neighborhoods, offering a combination of history, dining, and local character that rewards visitors who take time to explore beyond the main streets.
+
+#### What is the history of Bloomfield?
+The neighborhood has deep roots in Pittsburgh's industrial and immigrant heritage. See the historical section above for a full overview.
+
+#### What are the best places to eat in Bloomfield?
+The neighborhood has a strong independent dining scene. The food and dining sections above highlight the most essential stops — from long-standing institutions to newer favorites.
+
+#### How do I get around Pittsburgh without a car?
+Pittsburgh Port Authority (PAT) buses connect all major neighborhoods. The free **T** light rail covers Downtown and the South Hills. Many East End neighborhoods — Oakland, Squirrel Hill, Lawrenceville — are walkable once you arrive.
+
+#### Where should I stay when visiting Pittsburgh?
+Downtown and the North Shore put you within walking distance of the stadiums and major attractions. For a more neighborhood feel, look for accommodation in the East End near Oakland or Shadyside. [Browse Pittsburgh hotel options here](https://trip.tpo.mx/j6OajJW1).

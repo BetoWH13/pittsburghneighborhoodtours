@@ -8,6 +8,16 @@ tags: ["Primanti Brothers", "Pittsburgh food", "Pittsburgh sandwiches", "Strip D
 
 There is no food more Pittsburgh than a Primanti Brothers sandwich. Not pierogies, not Heinz ketchup, not even a Klondike bar (also invented here). The Primanti — a thick-cut sandwich of grilled meat, tangy coleslaw, ripe tomato slices, and a full serving of french fries, all pressed between two slices of Italian bread — is the singular edible expression of what this city is: filling, unpretentious, built for working people, and deeply, stubbornly original.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 🍽️ Type | Bars & Drinks |
+| 🎯 Best For | Foodies |
+| 💰 Price Range | $$ — Moderate |
+| ⭐ Must Try | The Pitts-Burgher: |
+
+</div>
 You can get a Primanti sandwich at dozens of locations across Western Pennsylvania now. But it started on one corner in the Strip District, in the middle of the Great Depression, and the story of how it got there is as Pittsburgh as the sandwich itself.
 
 ### Born in the Strip, 1933
@@ -38,3 +48,15 @@ The **original Strip District location** is still the one that matters most. The
 ### Getting There
 
 The original Primanti Brothers is at **46 18th Street** in the Strip District, about a 15-minute walk from Downtown Pittsburgh or easily reached via Penn Avenue. It's open daily. The line moves fast. [Book a stay near the Strip and make it your first night's dinner](https://trip.tpo.mx/j6OajJW1).
+---
+
+## Frequently Asked Questions
+
+#### Is this a Pittsburgh-only experience?
+Very much so. Pittsburgh's food culture is deeply tied to its industrial and immigrant history, and many of the dishes and establishments described here are unique to the city.
+
+#### What is Pittsburgh's most iconic food?
+The Primanti Brothers sandwich — stuffed with coleslaw and french fries — is the undisputed symbol of Pittsburgh food culture. But pierogies, kielbasa, and Heinz ketchup are all deeply Pittsburgh too.
+
+#### Where is the best neighborhood to eat in Pittsburgh?
+Lawrenceville on Butler Street is currently the most exciting dining neighborhood. The Strip District is essential for market food on Saturday mornings. Bloomfield (Little Italy) and Squirrel Hill each have long-established dining traditions.

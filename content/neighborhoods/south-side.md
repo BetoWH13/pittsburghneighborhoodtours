@@ -8,6 +8,17 @@ tags: ["South Side", "Pittsburgh Neighborhoods", "East Carson Street", "South Si
 
 Cross the Monongahela on the Birmingham Bridge and you land in the South Side — a neighborhood that manages to be rowdy and charming in equal measure. It's where Pittsburgh's most legendary bar strip sits at the base of a hillside threaded with hundreds of hand-laid stone steps, where steel mill workers once climbed home after their shifts and where residents today do the same just to keep their quads honest.
 
+<div class="summary-box">
+
+| | |
+|---|---|
+| 📍 Location | Pittsburgh, PA |
+| 🎯 Best For | History lovers, Nightlife seekers |
+| ✨ Vibe | Trendy & creative |
+| 🚌 Getting There | Bus or car from Downtown Pittsburgh |
+| ⭐ Don't Miss | The Smiling Moose: |
+
+</div>
 The South Side is really two neighborhoods stitched together: **South Side Flats**, the flat stretch along the river anchored by East Carson Street, and **South Side Slopes**, the dramatic hillside community climbing steeply above it.
 
 ### East Carson Street: Pittsburgh's Longest Bar Mile
@@ -41,3 +52,18 @@ The South Side was one of the most productive steelmaking districts in the world
 The South Side is easily accessible from Downtown via the Birmingham or 10th Street Bridges, or from the South Busway. Parking along East Carson can be challenging on weekends; the lots off South 18th Street are your best bet. The **51C** bus runs frequently from Downtown.
 
 The South Side runs at its own pace — fast at night, slow and neighborhood-quiet on Sunday mornings. Both versions are worth knowing. [Book your Pittsburgh stay and see it for yourself](https://trip.tpo.mx/j6OajJW1).
+---
+
+## Frequently Asked Questions
+
+#### Is South Side Pittsburgh worth visiting?
+Absolutely. South Side Pittsburgh is one of Pittsburgh's most distinctive neighborhoods, offering a combination of history, dining, and local character that rewards visitors who take time to explore beyond the main streets.
+
+#### What are the best places to eat in South Side Pittsburgh?
+The neighborhood has a strong independent dining scene. The food and dining sections above highlight the most essential stops — from long-standing institutions to newer favorites.
+
+#### How do I get around Pittsburgh without a car?
+Pittsburgh Port Authority (PAT) buses connect all major neighborhoods. The free **T** light rail covers Downtown and the South Hills. Many East End neighborhoods — Oakland, Squirrel Hill, Lawrenceville — are walkable once you arrive.
+
+#### Where should I stay when visiting Pittsburgh?
+Downtown and the North Shore put you within walking distance of the stadiums and major attractions. For a more neighborhood feel, look for accommodation in the East End near Oakland or Shadyside. [Browse Pittsburgh hotel options here](https://trip.tpo.mx/j6OajJW1).
