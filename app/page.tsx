@@ -29,6 +29,12 @@ export default function Home() {
               Explore Neighborhoods
             </a>
             <a
+              href="/planner"
+              className="border-2 border-white text-white hover:bg-white hover:text-primary px-8 py-3 rounded-lg font-semibold transition-colors"
+            >
+              🗺️ Plan My Trip
+            </a>
+            <a
               href="https://trip.tpo.mx/j6OajJW1"
               target="_blank"
               rel="noopener noreferrer"

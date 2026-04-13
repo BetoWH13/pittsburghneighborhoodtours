@@ -49,12 +49,14 @@ function Header() {
         <a href="/" className="text-xl md:text-2xl font-heading font-bold tracking-wide">
           Pittsburgh Neighborhood Tours
         </a>
-        <div className="hidden md:flex items-center gap-6 text-sm">
+        <div className="hidden md:flex items-center gap-5 text-sm">
           <a href="/" className="hover:text-gold transition-colors">Home</a>
           <a href="/neighborhoods" className="hover:text-gold transition-colors">Neighborhoods</a>
           <a href="/food-culture" className="hover:text-gold transition-colors">Food & Culture</a>
           <a href="/activities" className="hover:text-gold transition-colors">Activities</a>
           <a href="/guides" className="hover:text-gold transition-colors">Guides</a>
+          <a href="/planner" className="bg-gold text-primary font-bold px-3 py-1.5 rounded-lg hover:bg-yellow-400 transition-colors text-xs">🗺️ Planner</a>
+          <a href="/search" className="hover:text-gold transition-colors" aria-label="Search">🔍</a>
         </div>
         <MobileMenu />
       </nav>
@@ -77,6 +79,8 @@ function MobileMenu() {
           <a href="/food-culture" className="block px-4 py-2 hover:bg-gray-100">Food & Culture</a>
           <a href="/activities" className="block px-4 py-2 hover:bg-gray-100">Activities</a>
           <a href="/guides" className="block px-4 py-2 hover:bg-gray-100">Guides</a>
+          <a href="/planner" className="block px-4 py-2 hover:bg-gray-100 font-semibold text-accent">🗺️ Trip Planner</a>
+          <a href="/search" className="block px-4 py-2 hover:bg-gray-100">🔍 Search</a>
         </div>
       </details>
     </div>
@@ -102,6 +106,8 @@ function Footer() {
               <li><a href="/food-culture" className="text-gray-300 hover:text-white transition-colors">Food & Culture</a></li>
               <li><a href="/activities" className="text-gray-300 hover:text-white transition-colors">Activities</a></li>
               <li><a href="/guides" className="text-gray-300 hover:text-white transition-colors">Guides</a></li>
+              <li><a href="/planner" className="text-gold hover:text-white transition-colors font-semibold">🗺️ Trip Planner</a></li>
+              <li><a href="/search" className="text-gray-300 hover:text-white transition-colors">🔍 Search</a></li>
             </ul>
           </div>
           <div>
