@@ -8,8 +8,6 @@ tags: ["Mount Washington", "Pittsburgh Neighborhoods", "Duquesne Incline", "Gran
 
 Perched high above the city, Mount Washington offers some of the most breathtaking views of Pittsburgh's iconic skyline. This neighborhood, known for its stunning overlooks, historic inclines, and charming residential streets, is a must-visit for anyone looking to experience the beauty and spirit of the Steel City from a whole new perspective.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Just a short ride from Downtown Pittsburgh, Mount Washington is easily accessible by car, bus, or incline. |
@@ -17,6 +15,7 @@ Perched high above the city, Mount Washington offers some of the most breathtaki
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | The neighborhood is walkable, with most attractions located along or near Grandview Avenue and Shiloh Street |
 | ⭐ Don't Miss | Incline Rides |
+<div class="summary-box">
 
 </div>
 

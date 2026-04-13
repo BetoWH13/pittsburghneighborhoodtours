@@ -8,14 +8,13 @@ tags: ["family-friendly Pittsburgh", "Pittsburgh with kids", "Pittsburgh zoo", "
 
 Pittsburgh is a great city for families, with lots of activities that are fun for both kids and adults. From hands-on museums to beautiful parks, there is something for everyone.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | Families, Outdoor enthusiasts |
 | 💰 Cost | Varies (tickets required for some) |
 | ⭐ Highlight | What to See |
+<div class="summary-box">
 
 </div>
 

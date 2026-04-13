@@ -8,14 +8,13 @@ tags: ["Pittsburgh historic bars", "Pittsburgh nightlife", "dive bars", "Origina
 
 Pittsburgh is a city rich in history, and one of the best ways to experience that history is by visiting its historic bars. From old speakeasies to iconic taverns, Pittsburgh's historic bars tell the story of the city's industrial past, cultural changes, and the people who have called it home. Here's a guide to some of the most iconic historic bars in Pittsburgh that are still standing today.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 💰 Price Range | $ — Budget-friendly |
 | ⭐ Must Try | History |
+<div class="summary-box">
 
 </div>
 

@@ -8,14 +8,13 @@ tags: ["Pittsburgh weekend itinerary", "things to do in Pittsburgh", "Pittsburgh
 
 Pittsburgh is a city that rewards the curious. Its 90 neighborhoods are stacked on hillsides and tucked into river valleys, connected by hundreds of bridges — more bridges than Venice, a fact Pittsburghers will tell you approximately once per conversation. A weekend here isn't enough to see everything, but if you plan it right, 48 hours will leave you understanding why people who come to visit often end up deciding to stay.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | ⏱️ Duration | Full weekend (2 days) |
 | 🎯 Best For | Foodies |
 | 💰 Cost | Free or low cost |
 | ⭐ Highlight | Carnegie Museum of Natural History |
+<div class="summary-box">
 
 </div>
 

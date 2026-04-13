@@ -8,14 +8,13 @@ tags: ["Pittsburgh hotels", "no prepayment", "where to stay", "Pittsburgh travel
 
 Planning a trip to Pittsburgh? Whether you're visiting for business, sports, or a historic tour of the city's neighborhoods, choosing the right hotel can make all the difference. With [NoPrepayHotels.com](https://noprepayhotels.com/find-no-prepayment-hotels-in-pittsburgh/), you can book a hassle-free stay—no prepayment required!
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 💰 Budget | $$ — Moderate |
 | 🎯 Best For | All visitors |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Look for free cancellation options |
+<div class="summary-box">
 
 </div>
 

@@ -8,14 +8,13 @@ tags: ["Pittsburgh walking tours", "self-guided tours", "Pittsburgh sightseeing"
 
 Pittsburgh is a city that's best explored on foot. From historic neighborhoods to hidden alleys filled with street art, a self-guided walking tour allows you to see the city at your own pace and discover its unique character. Here are some of the best self-guided walking tours to explore Pittsburgh's neighborhoods.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | History lovers |
 | 💰 Cost | Varies (tickets required for some) |
 | ⭐ Highlight | Arsenal Park |
+<div class="summary-box">
 
 </div>
 

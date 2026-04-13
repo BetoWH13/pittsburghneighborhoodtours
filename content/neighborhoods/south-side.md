@@ -8,8 +8,6 @@ tags: ["South Side", "Pittsburgh Neighborhoods", "East Carson Street", "South Si
 
 Cross the Monongahela on the Birmingham Bridge and you land in the South Side — a neighborhood that manages to be rowdy and charming in equal measure. It's where Pittsburgh's most legendary bar strip sits at the base of a hillside threaded with hundreds of hand-laid stone steps, where steel mill workers once climbed home after their shifts and where residents today do the same just to keep their quads honest.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Pittsburgh, PA |
@@ -17,6 +15,7 @@ Cross the Monongahela on the Birmingham Bridge and you land in the South Side �
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | The Smiling Moose |
+<div class="summary-box">
 
 </div>
 

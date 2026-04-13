@@ -8,8 +8,6 @@ tags: ["Duquesne Incline", "Pittsburgh attractions", "Mount Washington views", "
 
 The Duquesne Incline is one of Pittsburgh's most iconic attractions, offering visitors a chance to take a step back in time while enjoying some of the best views of the city. This historic cable car ride takes you up Mount Washington, giving you a unique perspective on Pittsburgh's beautiful skyline and its famous three rivers. Whether you're a local or a visitor, the Duquesne Incline is an experience you won't want to miss.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Pittsburgh, PA |
@@ -17,6 +15,7 @@ The Duquesne Incline is one of Pittsburgh's most iconic attractions, offering vi
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Scenic Views |
+<div class="summary-box">
 
 </div>
 

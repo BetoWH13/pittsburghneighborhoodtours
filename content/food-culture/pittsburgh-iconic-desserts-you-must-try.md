@@ -8,14 +8,13 @@ tags: ["Pittsburgh desserts", "Burnt Almond Torte", "Klondike Bar", "Sarris Cand
 
 Pittsburgh has a sweet side that's just as rich as its industrial heritage. From legendary cakes to iconic frozen treats, the Steel City has produced some truly unforgettable desserts. Let's take a closer look at some of the most famous desserts that call Pittsburgh home.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Nightlife seekers |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | Local character & hidden gems |
+<div class="summary-box">
 
 </div>
 

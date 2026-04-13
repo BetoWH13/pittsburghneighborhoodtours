@@ -8,14 +8,13 @@ tags: ["Pittsburgh hidden gems", "off-the-beaten-path", "Pittsburgh secret spots
 
 Pittsburgh is a city with lots of famous attractions, but some of the best experiences are in hidden places. There are hidden gems in the neighborhoods that many visitors—and even some locals—don't know about. This guide will help you explore these secret spots that make Pittsburgh special.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | Art & culture |
 | 💰 Cost | Free or low cost |
 | ⭐ Highlight | Arsenal Cider House |
+<div class="summary-box">
 
 </div>
 

@@ -8,8 +8,6 @@ tags: ["Pittsburgh hotels", "cultural hotspots", "art scene", "where to stay"]
 
 Pittsburgh's art scene is a vibrant mosaic of history, innovation, and expression. From world-class museums to intimate galleries, the city offers a rich cultural landscape that's best explored with the right home base. Here are the top hotels near Pittsburgh's cultural hotspots.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 💰 Budget | $$ — Moderate |
@@ -17,6 +15,7 @@ Pittsburgh's art scene is a vibrant mosaic of history, innovation, and expressio
 | 📍 Area | 107 6th St, Pittsburgh, PA 15222 |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
+<div class="summary-box">
 
 </div>
 

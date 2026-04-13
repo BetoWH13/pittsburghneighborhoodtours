@@ -8,14 +8,13 @@ tags: ["Pittsburgh coffee", "coffee culture", "independent cafes", "Pittsburgh n
 
 Pittsburgh's coffee culture is thriving, with independent cafes popping up in neighborhoods across the city. Each coffee shop reflects the character of its neighborhood, offering unique atmospheres, specialty drinks, and locally roasted beans. Here's a guide to the hidden gems of Pittsburgh's coffee scene, organized by neighborhood.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Art & culture |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | Local character & hidden gems |
+<div class="summary-box">
 
 </div>
 

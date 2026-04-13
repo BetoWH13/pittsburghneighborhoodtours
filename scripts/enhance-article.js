@@ -335,14 +335,9 @@ function buildSummaryTable(data, body, category) {
   if (rows.length === 0) return "";
 
   return [
-    `<div class="summary-box">`,
-    ``,
     `| | |`,
     `|---|---|`,
     ...rows,
-    ``,
-    `</div>`,
-    ``,
     ``,
   ].join("\n");
 }
@@ -437,6 +432,8 @@ function buildFAQ(data, body, category) {
 function isAlreadyEnhanced(body) {
   return (
     body.includes('<div class="summary-box">') ||
+    body.includes("| 📍") ||
+    body.includes("| 🎯") ||
     body.includes("## Frequently Asked Questions")
   );
 }
@@ -444,8 +441,8 @@ function isAlreadyEnhanced(body) {
 function stripEnhancements(body) {
   let stripped = body;
 
-  // Remove summary-box div blocks (including the blank lines around them)
-  stripped = stripped.replace(/\n*<div class="summary-box">[\s\S]*?<\/div>\n*/g, "\n\n");
+  // Remove summary table (two-column table immediately after first paragraph)
+  stripped = stripped.replace(/\n\| \| \|\n\|---\|---\|[\s\S]*?\n\n/g, "\n\n");
 
   // Remove Pittsburgh Fact callout blockquotes injected by the script
   stripped = stripped.replace(/\n+> 💡 \*\*Pittsburgh Fact:\*\*[^\n]*\n/g, "\n");

@@ -8,8 +8,6 @@ tags: ["Lawrenceville", "Pittsburgh Neighborhoods", "Butler Street", "Pittsburgh
 
 If you ask a Pittsburgher where the city's creative heartbeat lives, the answer is almost always Lawrenceville. Stretching along Butler Street from the Strip District to Stanton Heights, this long, narrow neighborhood hugging the Allegheny River has transformed from a 19th-century arsenal town into Pittsburgh's most talked-about destination — without ever losing the gritty, unpretentious edge that makes it undeniably *Burgh*.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Pittsburgh, PA |
@@ -17,6 +15,7 @@ If you ask a Pittsburgher where the city's creative heartbeat lives, the answer 
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Pusadee's Garden |
+<div class="summary-box">
 
 </div>
 

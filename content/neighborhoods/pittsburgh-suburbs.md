@@ -8,8 +8,6 @@ tags: ["Pittsburgh Suburbs", "Pittsburgh Neighborhoods", "suburbs of Pittsburgh"
 
 Pittsburgh is not only a vibrant city but also surrounded by a variety of suburbs, each offering its own unique charm, community vibe, and access to amenities. Whether you're looking for a family-friendly atmosphere, proximity to nature, or access to city life, Pittsburgh's suburbs have something for everyone.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Pittsburgh, PA |
@@ -17,6 +15,7 @@ Pittsburgh is not only a vibrant city but also surrounded by a variety of suburb
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | North Suburbs of Pittsburgh |
+<div class="summary-box">
 
 </div>
 

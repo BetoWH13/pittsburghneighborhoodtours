@@ -8,8 +8,6 @@ tags: ["Bloomfield", "Little Italy", "Pittsburgh Neighborhoods"]
 
 Welcome to Bloomfield, or as the locals might say, Benvenuto a Bloomfield! This lively neighborhood, affectionately known as Pittsburgh's Little Italy, is a colorful blend of old-world charm and modern-day vibrancy. From the moment you enter through the grand Liberty Avenue gateway, where bold signs proudly announce your arrival, you'll know you're in a place steeped in rich cultural heritage. Red, white, and green stripes adorn fire hydrants, street curbs, and lamp posts, and the names of long-standing family businesses like Cercone, D'Amico, and Lombardozzi are proudly displayed on storefronts throughout the neighborhood.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Just 3 miles from Downtown Pittsburgh, Bloomfield is easily accessible by car or bus. Once you're there, the neighborhood's compact layout makes it a breeze to explore on foot. |
@@ -17,6 +15,7 @@ Welcome to Bloomfield, or as the locals might say, Benvenuto a Bloomfield! This 
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Major streets include Liberty Avenue, Main Street, Baum Boulevard, and Friendship Avenue |
 | ⭐ Don't Miss | A Rich Historical Tapestry |
+<div class="summary-box">
 
 </div>
 

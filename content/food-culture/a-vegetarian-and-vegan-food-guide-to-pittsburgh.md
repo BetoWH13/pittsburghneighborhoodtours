@@ -8,14 +8,13 @@ tags: ["vegetarian Pittsburgh", "vegan food", "plant-based restaurants", "Pittsb
 
 Pittsburgh's food scene has evolved far beyond its meat-and-potatoes reputation. The city now boasts a vibrant vegetarian and vegan dining scene, with restaurants offering creative plant-based dishes that even the most dedicated carnivores will enjoy. Here's your guide to the best vegetarian and vegan food in Pittsburgh.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $ — Budget-friendly |
 | ⭐ Must Try | Check Menus Online |
+<div class="summary-box">
 
 </div>
 

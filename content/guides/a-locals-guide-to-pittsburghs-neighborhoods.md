@@ -8,14 +8,13 @@ tags: ["Pittsburgh neighborhoods", "where to stay", "Pittsburgh travel guide", "
 
 Pittsburgh, affectionately known as the "City of Bridges," is a vibrant metropolis rich in history, culture, and innovation. Nestled at the confluence of three rivers—the Allegheny, Monongahela, and Ohio—this former industrial powerhouse has transformed into a thriving hub for technology, education, and the arts. Each of Pittsburgh's neighborhoods boasts its own unique charm and character, offering visitors a diverse array of experiences. Whether you're a foodie, history buff, sports enthusiast, or [art lover](https://pittsburghneighborhoodtours.com/hotels-near-cultural-hotspots/), there's a Pittsburgh neighborhood that's perfect for you.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 💰 Budget | $$–$$$ |
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
+<div class="summary-box">
 
 </div>
 

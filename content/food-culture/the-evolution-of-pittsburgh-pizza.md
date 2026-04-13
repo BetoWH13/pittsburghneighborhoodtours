@@ -8,14 +8,13 @@ tags: ["Pittsburgh pizza", "Pittsburgh food", "pizzerias", "food guide"]
 
 Pittsburgh might be famous for its sandwiches and pierogies, but the city's pizza scene is just as noteworthy. Over the years, Pittsburgh has embraced a wide variety of pizza styles, from classic Italian pies to creative and trendy new interpretations. Whether you're a fan of a simple Margherita or prefer a slice piled high with unconventional toppings, Pittsburgh's pizzerias offer something for everyone.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Iconic Eats |
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | Local character & hidden gems |
+<div class="summary-box">
 
 </div>
 

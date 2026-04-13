@@ -8,14 +8,13 @@ tags: ["Pittsburgh sports", "Pittsburgh Steelers", "Pittsburgh Pirates", "Pittsb
 
 Pittsburgh is one of a handful of American cities where sports aren't just entertainment — they're identity. The black and gold runs deeper here than jersey sales and playoff runs. It survived the collapse of the steel industry, it held the city together through decades of economic uncertainty, and it remains the shared language between Pittsburghers of every neighborhood, generation, and background.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | Foodies, Art & culture, Nightlife seekers |
 | 💰 Cost | Free or low cost |
 | ⭐ Highlight | Tailgating |
+<div class="summary-box">
 
 </div>
 

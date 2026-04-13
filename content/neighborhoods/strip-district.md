@@ -8,8 +8,6 @@ tags: ["Strip District", "Pittsburgh Neighborhoods", "Pittsburgh food markets", 
 
 On Saturday morning, Pittsburghers don't say "I'm going to the farmers market." They say "I'm going to the Strip." And everyone knows exactly what that means.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Pittsburgh, PA |
@@ -17,6 +15,7 @@ On Saturday morning, Pittsburghers don't say "I'm going to the farmers market." 
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Pennsylvania Macaroni Company (Penn Mac) |
+<div class="summary-box">
 
 </div>
 

@@ -8,8 +8,6 @@ tags: ["Pittsburgh hotels", "budget-friendly", "affordable hotels", "where to st
 
 Pittsburgh is a city that offers incredible experiences without the hefty price tag. Whether you're visiting for a weekend getaway, a business trip, or a family vacation, there are plenty of budget-friendly accommodations that provide comfort, convenience, and great locations. Here are the top affordable hotels in Pittsburgh.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 💰 Budget | $ — Budget-friendly |
@@ -17,6 +15,7 @@ Pittsburgh is a city that offers incredible experiences without the hefty price 
 | 📍 Area | 1247 Smallman St, Pittsburgh, PA 15222 |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
+<div class="summary-box">
 
 </div>
 

@@ -8,8 +8,6 @@ tags: ["Squirrel Hill", "Pittsburgh Neighborhoods", "Pittsburgh East End", "Fric
 
 Ask any Pittsburgher to name the city's most livable neighborhood and Squirrel Hill is almost always in the conversation. Tucked in Pittsburgh's East End between Schenley Park and Frick Park, this dense, walkable community has been one of the most stable and beloved neighborhoods in the city for over a century — a place where generations of families have put down roots and never quite found a reason to leave.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Pittsburgh, PA |
@@ -17,6 +15,7 @@ Ask any Pittsburgher to name the city's most livable neighborhood and Squirrel H
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Milky Way Restaurant |
+<div class="summary-box">
 
 </div>
 

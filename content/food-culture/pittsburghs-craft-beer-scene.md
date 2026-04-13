@@ -8,14 +8,13 @@ tags: ["Pittsburgh craft beer", "Pittsburgh breweries", "Lawrenceville", "Church
 
 Pittsburgh has always been a beer city. Long before craft brewing was a trend, the Iron City Brewing Company was pouring lagers for steelworkers, and neighborhood taverns were as essential to the city's social fabric as the churches they sat across from. That tradition didn't disappear when the mills closed — it evolved. Today, Pittsburgh's craft brewery scene is one of the most geographically diverse and character-rich in the Mid-Atlantic, spread across neighborhoods from Lawrenceville to the North Side to the South Hills.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 💰 Price Range | $ — Budget-friendly |
 | ⭐ Must Try | Before a Pirates game |
+<div class="summary-box">
 
 </div>
 

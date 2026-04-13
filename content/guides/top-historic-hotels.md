@@ -8,8 +8,6 @@ tags: ["Pittsburgh hotels", "historic hotels", "where to stay", "Omni William Pe
 
 Pittsburgh is a city steeped in history, and what better way to experience that history than by staying in one of its iconic historic hotels? From grand Beaux-Arts landmarks to charming Victorian bed and breakfasts, these hotels offer a unique window into the city's past while providing all the comforts of the present.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 💰 Budget | $$–$$$ |
@@ -17,6 +15,7 @@ Pittsburgh is a city steeped in history, and what better way to experience that 
 | 📍 Area | 530 William Penn Pl, Pittsburgh, PA 15219 |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
+<div class="summary-box">
 
 </div>
 

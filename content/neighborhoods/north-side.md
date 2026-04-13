@@ -8,8 +8,6 @@ tags: ["North Side", "Pittsburgh Neighborhoods", "Andy Warhol Museum", "PNC Park
 
 Pittsburgh's North Side is a neighborhood that blends the old and the new in perfect harmony. Home to some of the city's most famous attractions, a rich history, and a vibrant arts scene, the North Side offers a little something for everyone. Whether you're an art lover, a history buff, or simply seeking a stroll through beautiful urban parks, the North Side invites you to dive into its diverse and exciting offerings.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Located just across the Allegheny River from Downtown Pittsburgh, the North Side is easily accessible by car, bike, or public transit. |
@@ -17,6 +15,7 @@ Pittsburgh's North Side is a neighborhood that blends the old and the new in per
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Walkability |
+<div class="summary-box">
 
 </div>
 

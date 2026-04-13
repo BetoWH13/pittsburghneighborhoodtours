@@ -8,8 +8,6 @@ tags: ["Oakland", "Pittsburgh Neighborhoods", "University of Pittsburgh", "Carne
 
 Oakland stands as one of Pittsburgh's most vibrant and dynamic neighborhoods, known for its prestigious universities, world-class museums, lush green spaces, and rich cultural heritage. As the city's academic and medical hub, Oakland is a bustling community where innovation meets tradition, offering visitors and residents alike a unique blend of intellectual, cultural, and recreational experiences.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 📍 Location | Just east of Downtown Pittsburgh, Oakland is easily accessible by car, bus, or bike. |
@@ -17,6 +15,7 @@ Oakland stands as one of Pittsburgh's most vibrant and dynamic neighborhoods, kn
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | The neighborhood is very walkable, with most attractions, restaurants, and parks located within a short distance of each other |
 | ⭐ Don't Miss | Cultural Treasures |
+<div class="summary-box">
 
 </div>
 

@@ -8,14 +8,13 @@ tags: ["Primanti Brothers", "Pittsburgh food", "Pittsburgh sandwiches", "Strip D
 
 There is no food more Pittsburgh than a Primanti Brothers sandwich. Not pierogies, not Heinz ketchup, not even a Klondike bar (also invented here). The Primanti — a thick-cut sandwich of grilled meat, tangy coleslaw, ripe tomato slices, and a full serving of french fries, all pressed between two slices of Italian bread — is the singular edible expression of what this city is: filling, unpretentious, built for working people, and deeply, stubbornly original.
 
-<div class="summary-box">
-
 | | |
 |---|---|
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | The Pitts-Burgher |
+<div class="summary-box">
 
 </div>
 
