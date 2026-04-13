@@ -13,9 +13,7 @@ There is no food more Pittsburgh than a Primanti Brothers sandwich. Not pierogie
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $$ — Moderate |
-| ⭐ Must Try | The Pitts-Burgher |
-</div>
-
+| ⭐ Must Try | Born in the Strip, 1933 |
 You can get a Primanti sandwich at dozens of locations across Western Pennsylvania now. But it started on one corner in the Strip District, in the middle of the Great Depression, and the story of how it got there is as Pittsburgh as the sandwich itself.
 
 ### Born in the Strip, 1933
@@ -26,26 +24,59 @@ Joe's innovation was brutally practical: put everything on the sandwich. The fri
 
 The cart became a storefront. The storefront became an institution. By the time Joe's descendants had taken over the operation, the Strip District location at 46 18th Street was open 24 hours a day, 7 days a week — a neon-lit, steam-fogged, sawdust-floored landmark that became the mandatory last stop of every Pittsburgh night out worth telling a story about.
 
-### The Sandwich
+### The Sandwich — What's Actually In It
 
-The signature **"Almost Famous" Cheesesteak** is the standard bearer — thinly shaved beef with provolone, topped with the coleslaw and fries that make it unmistakably Primanti's. But every sandwich on the menu follows the same logic:
+The formula is fixed: thick Italian bread, grilled meat, provolone cheese, a full serving of french fries, tangy vinegar-dressed coleslaw, and a slice of tomato. Everything stacked inside the bread. The coleslaw provides acidity and crunch; the fries add starch and warmth; the tomato cuts through the richness. It is, by every measurable standard, too much food. It is also exactly right.
 
-- **The Pitts-Burgher:** Burger patty, cheese, the works
-- **Jumbo Kielbasa:** Pittsburgh's Polish heritage in sandwich form
-- **Capicola & Egg:** Breakfast, lunch, and dinner at once
-- **Iron City Wings:** Not a sandwich, but a Strip District football ritual
+The logic of the construction — everything in one hand — came from the truck drivers and market workers who needed to eat while working. Joe Primanti wasn't inventing a culinary concept. He was solving a practical problem. The fact that the solution turned out to be delicious was secondary.
 
-Order it. Don't modify it. Don't ask for the fries on the side. You're in Pittsburgh.
+### What to Order
+
+**The "Almost Famous" Cheesesteak** — thinly shaved beef with provolone, the benchmark order for first-timers. This is the one you start with.
+
+**The Pitts-Burgher** — a burger patty version, for those who want the full Pittsburgh experience in the most Pittsburgh possible format.
+
+**Jumbo Kielbasa** — Polish heritage in sandwich form. The kielbasa is grilled, the coleslaw is sharp, and the combination is more refined than it sounds.
+
+**Capicola & Egg** — the breakfast sandwich iteration. Capicola, fried egg, provolone, fries, coleslaw. This is what Pittsburgh construction workers were eating at 5 AM in 1955 and it remains perfect.
+
+**Double Egg & Cheese** — for the vegetarian adjacent, or for anyone who wants to taste what the sandwich format does with simpler ingredients.
+
+**Iron City Wings** — not a sandwich, but Iron City Beer (brewed nearby) and a plate of wings is a Strip District sports ritual that has nothing wrong with it.
+
+### The Rules
+
+There are no rules. But there are norms:
+
+**Don't ask for the fries on the side.** It's not that they'll refuse — they won't — it's that you're missing the point. The fries inside the sandwich are not a novelty. They are structural.
+
+**Order at the counter.** The Strip District location has a counter and booths. The counter is the correct choice for a first visit. Sit, order, watch the grill, eat.
+
+**Don't modify it on your first visit.** Try it as designed. Modify it later if you must.
+
+### The Locations
+
+**The Strip District original (46 18th Street)** is the one that matters. Open daily, 24 hours on weekends. The neon, the noise, the 2 AM crowd — this is where the mythology lives.
+
+**PNC Park** — a Primanti's inside a baseball stadium is appropriate. The game-day sandwich, the river outside the windows, the city framed by the outfield wall.
+
+**Multiple suburban locations** (Monroeville, Bethel Park, Robinson Township, etc.) — convenient and consistent, but the atmosphere is a chain restaurant, not an institution.
+
+**Pittsburgh International Airport** — if your flight is at 6 AM and you want to start the trip right or end it properly, the airport location does the job.
 
 ### What It Means to Pittsburgh
 
-The Primanti sandwich shows up in Pittsburgh stories the same way the Three Rivers show up in Pittsburgh skyline photos — it's part of the backdrop of every significant moment. First dates, post-game celebrations, 2 a.m. recoveries, funerals, wedding nights. It was there when the Steelers won Super Bowl XIV and it was there when the mills closed. It doesn't ask questions.
+The Primanti sandwich shows up in Pittsburgh stories the same way the Three Rivers show up in Pittsburgh skyline photos — it's part of the backdrop of every significant moment. First dates, post-game celebrations, 2 AM recoveries, funerals, wedding nights. It was there when the Steelers won Super Bowl XIV and it was there when the mills closed. It doesn't ask questions.
 
-The **original Strip District location** is still the one that matters most. The newer locations — at PNC Park, across the suburbs, in airport terminals — are convenient. But if you're going to understand what Primanti's is really about, you go to 18th and Smallman, late at night, sit at the counter, and eat your sandwich while the city moves outside the window.
+It has also resisted the fate of most iconic regional foods — the franchise expansion, the cookbook deals, the airport kiosk version that tastes nothing like the original. The Strip District Primanti's still feels like the Strip District. The counter still faces the grill. The coleslaw is still dressed with the same vinegar formula Joe Primanti worked out in 1933.
+
+That's the rarest thing: a place that got famous and didn't get ruined.
 
 ### Getting There
 
-The original Primanti Brothers is at **46 18th Street** in the Strip District, about a 15-minute walk from Downtown Pittsburgh or easily reached via Penn Avenue. It's open daily. The line moves fast. [Book a stay near the Strip and make it your first night's dinner](https://trip.tpo.mx/j6OajJW1).
+The original Primanti Brothers is at **46 18th Street** in the Strip District, about a 15-minute walk from Downtown Pittsburgh or easily reached via Penn Avenue. It's open daily, 24 hours on weekends. The line moves fast.
+
+[Book a stay near the Strip District and make it your first night's dinner](https://trip.tpo.mx/j6OajJW1).
 
 
 ---
