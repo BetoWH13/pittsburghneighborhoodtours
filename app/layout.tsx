@@ -1,10 +1,29 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+const BASE_URL = "https://pittsburghneighborhoodtours.com";
+
 export const metadata: Metadata = {
   title: "Pittsburgh Neighborhood Tours",
   description:
     "Explore Pittsburgh's rich history and vibrant culture with curated neighborhood tours. Discover local favorites for dining, shopping, and more!",
+  metadataBase: new URL(BASE_URL),
+  alternates: { canonical: BASE_URL },
+  openGraph: {
+    title: "Pittsburgh Neighborhood Tours",
+    description:
+      "Explore Pittsburgh's rich history and vibrant culture with curated neighborhood tours. Discover local favorites for dining, shopping, and more!",
+    url: BASE_URL,
+    siteName: "Pittsburgh Neighborhood Tours",
+    type: "website",
+    locale: "en_US",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Pittsburgh Neighborhood Tours",
+    description:
+      "Explore Pittsburgh's rich history and vibrant culture with curated neighborhood tours. Discover local favorites for dining, shopping, and more!",
+  },
 };
 
 export default function RootLayout({

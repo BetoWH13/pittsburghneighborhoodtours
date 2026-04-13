@@ -1,4 +1,35 @@
 import { getPostData, getAllPostSlugs } from "@/lib/posts";
+import { Metadata } from "next";
+
+const BASE_URL = "https://pittsburghneighborhoodtours.com";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: { slug: string };
+}): Promise<Metadata> {
+  const post = await getPostData("food-culture", params.slug);
+  const url = `${BASE_URL}/food-culture/${params.slug}`;
+  return {
+    title: `${post.title} | Pittsburgh Neighborhood Tours`,
+    description: post.description,
+    alternates: { canonical: url },
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      url,
+      siteName: "Pittsburgh Neighborhood Tours",
+      type: "article",
+      publishedTime: post.date,
+      tags: post.tags,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
+    },
+  };
+}
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs("food-culture");
@@ -11,8 +42,27 @@ export default async function FoodCulturePost({
   params: { slug: string };
 }) {
   const post = await getPostData("food-culture", params.slug);
+  const url = `${BASE_URL}/food-culture/${params.slug}`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    url,
+    publisher: {
+      "@type": "Organization",
+      name: "Pittsburgh Neighborhood Tours",
+      url: BASE_URL,
+    },
+    keywords: post.tags.join(", "),
+  };
   return (
     <article className="max-w-4xl mx-auto px-4 py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <div className="mb-8">
         <a href="/food-culture" className="text-accent hover:underline text-sm">
           ← Back to Food &amp; Culture
