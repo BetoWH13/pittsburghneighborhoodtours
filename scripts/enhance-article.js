@@ -29,6 +29,126 @@ const path = require("path");
 
 const AFFILIATE_LINK = "https://trip.tpo.mx/j6OajJW1";
 
+// ─── Content Root ─────────────────────────────────────────────────────────────
+
+const CONTENT_ROOT = path.join(__dirname, "..", "content");
+const CATEGORIES = ["neighborhoods", "food-culture", "activities", "guides"];
+
+// ─── Link Map Builder ─────────────────────────────────────────────────────────
+
+function buildLinkMap() {
+  const map = []; // [{ url, keywords: [string], slug }]
+  for (const cat of CATEGORIES) {
+    const dir = path.join(CONTENT_ROOT, cat);
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"));
+    for (const file of files) {
+      const slug = file.replace(/\.md$/, "");
+      const url = `/${cat}/${slug}`;
+      const raw = fs.readFileSync(path.join(dir, file), "utf8").replace(/\r\n/g, "\n");
+      const { data } = parseFrontmatter(raw);
+      const title = data.title || "";
+      const tags = Array.isArray(data.tags) ? data.tags : [];
+
+      // Build keyword list: title words (3+ chars, no stop words) + tags
+      const stopWords = new Set([
+        "the","and","for","with","from","that","this","are","was","were",
+        "have","has","had","its","our","your","their","will","been","into",
+        "more","also","about","when","than","what","how","why","which","who",
+        "not","but","can","all","any","each","most","both","some","such",
+        "pittsburgh","guide","complete","best","top","great","little",
+        // common nouns that trigger false positives as single words
+        "night","city","area","region","place","visit","where","cultural",
+        "neighborhood","community","local","history","historic","historic",
+        "scene","street","avenue","district","park","food","craft","beer",
+        "events","event","annual","season","perfect","hidden","family",
+        "walking","tours","sports","fans","budget","hotel","hotels","stay",
+        "weekend","summer","spring","winter","fall","traditions","tradition",
+        "bars","pizza","coffee","desserts","iconic","evolution","vegetarian",
+        "vegan","suburbs","incline","duquesne","festival","festivals",
+      ]);
+
+      const titleWords = title
+        .replace(/[^a-zA-Z0-9\s'-]/g, "")
+        .split(/\s+/)
+        .filter((w) => w.length >= 8 && !stopWords.has(w.toLowerCase()));
+
+      // Multi-word phrases from title are stronger signals — keep 2-3 word combos
+      const phrases = [];
+      const titleClean = title.replace(/[^a-zA-Z0-9\s]/g, "").split(/\s+/).filter(Boolean);
+      for (let i = 0; i < titleClean.length - 1; i++) {
+        const bigram = `${titleClean[i]} ${titleClean[i + 1]}`;
+        if (bigram.split(" ").every((w) => !stopWords.has(w.toLowerCase()))) {
+          phrases.push(bigram);
+        }
+        if (i < titleClean.length - 2) {
+          const trigram = `${titleClean[i]} ${titleClean[i + 1]} ${titleClean[i + 2]}`;
+          phrases.push(trigram);
+        }
+      }
+
+      const keywords = [...new Set([...phrases, ...titleWords, ...tags])];
+      map.push({ url, slug, keywords, title });
+    }
+  }
+  // Sort by keyword length desc so longer (more specific) phrases match first
+  map.forEach((entry) => entry.keywords.sort((a, b) => b.length - a.length));
+  return map;
+}
+
+// ─── Internal Link Injector ───────────────────────────────────────────────────
+
+function injectInternalLinks(body, currentSlug, linkMap) {
+  const linked = new Set(); // track which URLs have already been linked (once per article)
+  const lines = body.split("\n");
+  const result = [];
+
+  for (const line of lines) {
+    // Skip headings, HTML tags, blockquotes, existing links, code fences, table rows
+    const skip =
+      /^#{1,6}\s/.test(line) ||
+      /^</.test(line.trim()) ||
+      /^>/.test(line.trim()) ||
+      /^\|/.test(line.trim()) ||
+      /^```/.test(line.trim()) ||
+      /\[.*?\]\(.*?\)/.test(line); // already has a link
+
+    if (skip) {
+      result.push(line);
+      continue;
+    }
+
+    let processedLine = line;
+
+    for (const entry of linkMap) {
+      // Never link to self
+      if (entry.slug === currentSlug) continue;
+      // Only link each target URL once per article
+      if (linked.has(entry.url)) continue;
+
+      for (const kw of entry.keywords) {
+        if (kw.length < 8) continue; // skip short keywords — phrases preferred
+        // Case-insensitive whole-word match, not already inside a markdown link
+        const escaped = kw.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        const regex = new RegExp(`(?<!\\[.*?)\\b(${escaped})\\b(?![^\\[]*?\\])`, "i");
+        const match = processedLine.match(regex);
+        if (match) {
+          processedLine = processedLine.replace(
+            regex,
+            `[${match[1]}](${entry.url})`
+          );
+          linked.add(entry.url);
+          break; // move to next entry after first match
+        }
+      }
+    }
+
+    result.push(processedLine);
+  }
+
+  return result.join("\n");
+}
+
 // Category-specific summary row labels
 const CATEGORY_FIELDS = {
   neighborhoods: [
@@ -450,6 +570,9 @@ function stripEnhancements(body) {
   // Remove FAQ section from the last --- separator onward (handles \n--- and \n\n---)
   stripped = stripped.replace(/\n+---\n+## Frequently Asked Questions[\s\S]*$/, "\n");
 
+  // Remove injected internal links (restore plain text)
+  stripped = stripped.replace(/\[([^\]]+)\]\(\/(neighborhoods|food-culture|activities|guides)\/[^)]+\)/g, "$1");
+
   // Collapse excess blank lines (3+ → 2)
   stripped = stripped.replace(/\n{3,}/g, "\n\n");
 
@@ -490,11 +613,15 @@ function processClean(filePath, data, body, frontmatterRaw, dryRun) {
   // 2. Inject callouts into body
   const bodyWithCallouts = injectCallouts(body);
 
+  // 2b. Inject internal links (contextual, first-occurrence only)
+  const currentSlug = path.basename(filePath, ".md");
+  const bodyWithLinks = injectInternalLinks(bodyWithCallouts, currentSlug, LINK_MAP);
+
   // 3. Build FAQ section
   const faqSection = buildFAQ(data, body, category);
 
   // 4. Assemble final content
-  let enhancedBody = bodyWithCallouts;
+  let enhancedBody = bodyWithLinks;
 
   // Insert summary table after first paragraph break
   const firstParaEnd = enhancedBody.indexOf("\n\n");
@@ -530,6 +657,9 @@ function processClean(filePath, data, body, frontmatterRaw, dryRun) {
 const args = process.argv.slice(2).filter((a) => !a.startsWith("--"));
 const dryRun = process.argv.includes("--dry-run");
 const force = process.argv.includes("--force");
+
+// Build once — reused for all files in this run
+const LINK_MAP = buildLinkMap();
 
 if (args.length === 0) {
   console.error("Usage: node scripts/enhance-article.js <file-or-directory> [--dry-run] [--force]");
