@@ -15,8 +15,6 @@ Pittsburgh is a city that offers incredible experiences without the hefty price 
 | 📍 Area | 1247 Smallman St, Pittsburgh, PA 15222 |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-<div class="summary-box">
-
 </div>
 
 ## 1. Hampton Inn & Suites Pittsburgh-Downtown

@@ -15,8 +15,6 @@ Cross the Monongahela on the Birmingham Bridge and you land in the South Side �
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | The Smiling Moose |
-<div class="summary-box">
-
 </div>
 
 The South Side is really two neighborhoods stitched together: **South Side Flats**, the flat stretch along the river anchored by East Carson Street, and **South Side Slopes**, the dramatic hillside community climbing steeply above it.

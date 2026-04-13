@@ -14,8 +14,6 @@ Pittsburgh is a city with lots of famous attractions, but some of the best exper
 | 🎯 Best For | Art & culture |
 | 💰 Cost | Free or low cost |
 | ⭐ Highlight | Arsenal Cider House |
-<div class="summary-box">
-
 </div>
 
 ## 1. Lawrenceville: Artsy and Full of Surprises

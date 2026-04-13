@@ -14,8 +14,6 @@ Pittsburgh, affectionately known as the "City of Bridges," is a vibrant metropol
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-<div class="summary-box">
-
 </div>
 
 ## Downtown (Central Business District)

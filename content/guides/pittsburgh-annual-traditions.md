@@ -15,8 +15,6 @@ Every city has events. Pittsburgh has traditions. There's a difference — event
 | 📍 Area | Allegheny River waterfront, North Shore |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-These are the recurring events that, year after year, make Pittsburgh feel like Pittsburgh.
-
 ---
 
 ## The Rubber Duck Regatta (September)

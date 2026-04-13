@@ -14,8 +14,6 @@ Ask any Pittsburgher what their favorite season is and the answer is almost alwa
 | 🎯 Best For | Sports fans |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-## September: The Transition
-
 ### Pittsburgh Blues Festival (Labor Day Weekend)
 
 The fall season opens at Hartwood Acres — 629 acres of county park in the North Hills — for three days of blues music. National and regional acts perform across the park grounds, the weather is still warm enough for a blanket on the grass, and the whole thing is free. This is a proper send-off for summer.
@@ -81,9 +79,6 @@ The Penguins open their season in October and by November the PPG Paints Arena o
 ## Combining Fall Events with Neighborhood Exploration
 
 Fall is the best time to walk Pittsburgh's neighborhoods. The South Side Slopes steps look spectacular in October — colored leaves all the way down the hillsides, the city below framed by autumn light. Squirrel Hill's Forbes Avenue feels like a New England college town. Lawrenceville's Butler Street has the warmth of a neighborhood that knows how to make the most of an autumn Saturday.
-
-> 💡 **Pittsburgh Fact:** Fall is the best time to walk Pittsburgh's neighborhoods.
-
 
 Plan a fall weekend around a Steelers home game, a Saturday morning at Frick Park, and dinner in Bloomfield — that's three Pittsburgh experiences in 24 hours that cover history, nature, and food culture without any of them competing with each other.
 

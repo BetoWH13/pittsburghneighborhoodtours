@@ -14,8 +14,6 @@ There's a version of tourism that treats a city like a stage set — somewhere t
 | 🎯 Best For | Outdoor enthusiasts |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-This guide is not about guilt. It's about the simple fact that visiting Pittsburgh well — with curiosity, with awareness, with some basic courtesy — produces a better trip than visiting it carelessly. The locals who make Pittsburgh worth visiting are also the ones who will make or break your experience. Here's how to be on the right side of that equation.
-
 ---
 
 ## Understand What You're Walking Into

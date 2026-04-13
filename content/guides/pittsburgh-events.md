@@ -14,8 +14,6 @@ Pittsburgh's event calendar is one of the most underrated in any mid-size Americ
 | 🎯 Best For | Art & culture, Sports fans |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-## The Year at a Glance
-
 | Season | Signature Event | Why It Matters |
 |---|---|---|
 | 🌸 Spring | EQT Pittsburgh Marathon (May) | Scenic 9-bridge course through 12 neighborhoods |
@@ -37,7 +35,7 @@ Pittsburgh's outdoor season runs from May through September. The Three Rivers Ar
 
 The summer hits its stride in July with the Pittsburgh Vintage Grand Prix in Schenley Park (free, open paddock, extraordinary cars) and peaks in August with Picklesburgh on the Andy Warhol Bridge and free Shakespeare at Flagstaff Hill.
 
-→ **[Full Spring & Summer Events Guide](/guides/pittsburgh-events-spring-summer)**
+→ **Full Spring & Summer Events Guide**
 
 ---
 
@@ -47,7 +45,7 @@ Fall is the best season. The hills go gold, Steelers football returns, and a str
 
 Mid-October is peak foliage — Frick Park's Fern Hollow trail and the Mount Washington overlook are the two best vantage points in the city.
 
-→ **[Full Fall Events Guide](/guides/pittsburgh-events-fall)**
+→ **Full Fall Events Guide**
 
 ---
 
@@ -57,7 +55,7 @@ Pittsburgh's holiday season centers on Light Up Night — the Friday before Than
 
 Winter rates at Pittsburgh's historic hotels drop significantly from summer peaks. The Omni William Penn and Renaissance Pittsburgh are at their most atmospheric in December.
 
-→ **[Full Winter Events Guide](/guides/pittsburgh-events-winter)**
+→ **Full Winter Events Guide**
 
 ---
 
@@ -65,13 +63,16 @@ Winter rates at Pittsburgh's historic hotels drop significantly from summer peak
 
 Some Pittsburgh events are more than events — they're civic rituals. The Rubber Duck Regatta (15,000 ducks down the Allegheny). The Terrible Towel twirl in Acrisure Stadium. The city steps races on the South Side Slopes. These are things Pittsburghers do as an expression of who they are, and understanding them means understanding something essential about the city.
 
-→ **[Pittsburgh's Annual Traditions Guide](/guides/pittsburgh-annual-traditions)**
+→ **Pittsburgh's Annual Traditions Guide**
 
 ---
 
 ## Quick Reference: Monthly Calendar
 
 **January** — Restaurant Week, Penguins hockey, PPG Place ice skating (through mid-February)
+
+> 💡 **Pittsburgh Fact:** **January** — Restaurant Week, Penguins hockey, PPG Place ice skating (through mid-February)
+
 
 **February** — Pittsburgh Restaurant Week (second edition), Penguins push toward playoffs
 
@@ -100,9 +101,6 @@ Some Pittsburgh events are more than events — they're civic rituals. The Rubbe
 ## Planning Advice
 
 **Book accommodations early for:** Marathon weekend (May), Fourth of July, Light Up Night weekend, any Steelers home game.
-
-> 💡 **Pittsburgh Fact:** **Book accommodations early for:** Marathon weekend (May), Fourth of July, Light Up Night weekend, any Steelers home game.
-
 
 **Best value windows:** January–March (lowest hotel rates, indoor cultural season), late May (post-marathon, pre-festival), mid-September (Steelers started but before the holiday rush).
 

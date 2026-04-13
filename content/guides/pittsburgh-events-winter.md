@@ -15,8 +15,6 @@ Winter is Pittsburgh's most underrated season for visitors. The city gets a bad 
 | 📍 Area | Downtown Pittsburgh, centered on Market Square and PPG Place |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-## November: The Season Opens
-
 ### Light Up Night (Friday Before Thanksgiving)
 
 Light Up Night is Pittsburgh's answer to the holiday season, and it's one of the great free urban events in the country. The entire downtown illuminates simultaneously — bridges, buildings, PPG Place's towers, the Cultural District — while fireworks launch over the river. Half a million people show up. It's loud, crowded, joyful, and completely Pittsburgh.
@@ -88,9 +86,6 @@ The Duquesne Incline is a different experience in winter. On a clear cold night,
 ## Where to Stay in Winter
 
 Winter rates in Pittsburgh are significantly lower than summer festival season. The historic hotels — the Omni William Penn, the Renaissance Pittsburgh — are at their most atmospheric in December, with lobbies decorated and the full weight of the buildings' history more present in the quiet of winter. [Check Pittsburgh winter hotel availability](https://trip.tpo.mx/j6OajJW1) and compare against the summer rates.
-
-> 💡 **Pittsburgh Fact:** Winter rates in Pittsburgh are significantly lower than summer festival season.
-
 
 The Strip District and Lawrenceville have strong short-term rental options for visitors who want more space — practical for families attending Phipps or the Nutcracker.
 

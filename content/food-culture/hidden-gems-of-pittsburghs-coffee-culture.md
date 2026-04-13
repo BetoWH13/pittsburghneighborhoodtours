@@ -14,8 +14,6 @@ Pittsburgh's coffee culture is thriving, with independent cafes popping up in ne
 | 🎯 Best For | Art & culture |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | Local character & hidden gems |
-<div class="summary-box">
-
 </div>
 
 ## 1. Lawrenceville

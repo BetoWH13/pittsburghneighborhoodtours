@@ -15,8 +15,6 @@ Pittsburgh is a city steeped in history, and what better way to experience that 
 | 📍 Area | 530 William Penn Pl, Pittsburgh, PA 15219 |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-<div class="summary-box">
-
 </div>
 
 ## 1. Omni William Penn Hotel

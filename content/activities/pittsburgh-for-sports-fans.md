@@ -14,8 +14,6 @@ Pittsburgh is one of a handful of American cities where sports aren't just enter
 | 🎯 Best For | Foodies, Art & culture, Nightlife seekers |
 | 💰 Cost | Free or low cost |
 | ⭐ Highlight | Tailgating |
-<div class="summary-box">
-
 </div>
 
 Three teams. Three venues. All within a mile of each other on the North Shore. No other city in America has anything quite like it.

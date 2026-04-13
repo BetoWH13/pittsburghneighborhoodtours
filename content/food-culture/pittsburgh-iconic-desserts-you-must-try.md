@@ -14,8 +14,6 @@ Pittsburgh has a sweet side that's just as rich as its industrial heritage. From
 | 🎯 Best For | Nightlife seekers |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | Local character & hidden gems |
-<div class="summary-box">
-
 </div>
 
 ## 1. Burnt Almond Torte: A Pittsburgh Legend

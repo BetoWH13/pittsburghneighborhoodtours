@@ -1,5 +1,6 @@
-import { getPostData, getAllPostSlugs } from "@/lib/posts";
+import { getPostData, getAllPostSlugs, getAllPosts } from "@/lib/posts";
 import { Metadata } from "next";
+import RelatedArticles from "@/components/RelatedArticles";
 
 const BASE_URL = "https://pittsburghneighborhoodtours.com";
 
@@ -42,6 +43,7 @@ export default async function GuidePost({
   params: { slug: string };
 }) {
   const post = await getPostData("guides", params.slug);
+  const allPosts = getAllPosts();
   const url = `${BASE_URL}/guides/${params.slug}`;
   const jsonLd = {
     "@context": "https://schema.org",
@@ -92,6 +94,12 @@ export default async function GuidePost({
           </div>
         </div>
       )}
+      <RelatedArticles
+        currentSlug={params.slug}
+        currentCategory="guides"
+        currentTags={post.tags}
+        allPosts={allPosts}
+      />
     </article>
   );
 }

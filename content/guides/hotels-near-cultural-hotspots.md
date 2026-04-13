@@ -15,8 +15,6 @@ Pittsburgh's art scene is a vibrant mosaic of history, innovation, and expressio
 | 📍 Area | 107 6th St, Pittsburgh, PA 15222 |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-<div class="summary-box">
-
 </div>
 
 ## 1. The Renaissance Pittsburgh Hotel

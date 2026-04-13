@@ -14,8 +14,6 @@ Planning a trip to Pittsburgh? Whether you're visiting for business, sports, or 
 | 🎯 Best For | All visitors |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Look for free cancellation options |
-<div class="summary-box">
-
 </div>
 
 [Find No Prepay Hotels in Pittsburgh Here](https://trip.tpo.mx/j6OajJW1)

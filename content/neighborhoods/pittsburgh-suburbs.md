@@ -15,8 +15,6 @@ Pittsburgh is not only a vibrant city but also surrounded by a variety of suburb
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | North Suburbs of Pittsburgh |
-<div class="summary-box">
-
 </div>
 
 In this guide, we've organized the 90 Pittsburgh suburbs by their location—North, South, East, and West—to give you a clearer picture of the neighborhoods surrounding the Steel City.

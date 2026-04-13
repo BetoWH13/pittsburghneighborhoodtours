@@ -14,8 +14,6 @@ Pittsburgh is a city rich in history, and one of the best ways to experience tha
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 💰 Price Range | $ — Budget-friendly |
 | ⭐ Must Try | History |
-<div class="summary-box">
-
 </div>
 
 ## 1. The Original Oyster House

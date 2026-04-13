@@ -15,8 +15,6 @@ If you ask a Pittsburgher where the city's creative heartbeat lives, the answer 
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Pusadee's Garden |
-<div class="summary-box">
-
 </div>
 
 Locals divide the neighborhood into Lower, Central, and Upper Lawrenceville, each with its own distinct flavor. But the thread running through all three is the same: independent spirit, craft everything, and a deep pride in where you come from.

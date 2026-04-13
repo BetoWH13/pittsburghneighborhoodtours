@@ -14,8 +14,6 @@ Pittsburgh might be famous for its sandwiches and pierogies, but the city's pizz
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | Local character & hidden gems |
-<div class="summary-box">
-
 </div>
 
 ## 1. The Traditional Roots: Classic Pittsburgh Pizza

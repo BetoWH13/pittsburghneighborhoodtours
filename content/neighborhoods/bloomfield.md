@@ -15,8 +15,6 @@ Welcome to Bloomfield, or as the locals might say, Benvenuto a Bloomfield! This 
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Major streets include Liberty Avenue, Main Street, Baum Boulevard, and Friendship Avenue |
 | ⭐ Don't Miss | A Rich Historical Tapestry |
-<div class="summary-box">
-
 </div>
 
 But there's more to Bloomfield than its Italian roots—this is a community that welcomes all, offering a diverse array of dining, shopping, and cultural experiences.

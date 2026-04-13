@@ -15,8 +15,6 @@ Oakland stands as one of Pittsburgh's most vibrant and dynamic neighborhoods, kn
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | The neighborhood is very walkable, with most attractions, restaurants, and parks located within a short distance of each other |
 | ⭐ Don't Miss | Cultural Treasures |
-<div class="summary-box">
-
 </div>
 
 ## A Hub of Knowledge and Innovation

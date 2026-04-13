@@ -15,8 +15,6 @@ On Saturday morning, Pittsburghers don't say "I'm going to the farmers market." 
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Pennsylvania Macaroni Company (Penn Mac) |
-<div class="summary-box">
-
 </div>
 
 The Strip District is a narrow mile-long corridor tucked between Downtown Pittsburgh and Lawrenceville, running along the north bank of the Allegheny River. For more than a century it has been Pittsburgh's wholesale and retail food hub — the neighborhood where the city eats, shops, haggles, and runs into everyone it knows. On a Saturday, Penn Avenue and Smallman Street come alive with a kind of chaotic, delicious energy unlike anywhere else in the region.

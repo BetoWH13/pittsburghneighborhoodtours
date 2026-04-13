@@ -15,8 +15,6 @@ Ask any Pittsburgher to name the city's most livable neighborhood and Squirrel H
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Milky Way Restaurant |
-<div class="summary-box">
-
 </div>
 
 Squirrel Hill is best known for its long-established Jewish community, its two commercial corridors on Forbes and Murray Avenues, its extraordinary access to greenspace, and — perhaps most importantly to Pittsburghers of a certain age — being the real-life home of Fred Rogers, better known as Mister Rogers. He lived and worked in the neighborhood for decades, and his presence shaped its character in ways both visible and invisible.

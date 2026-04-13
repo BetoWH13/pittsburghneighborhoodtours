@@ -14,8 +14,6 @@ There is no food more Pittsburgh than a Primanti Brothers sandwich. Not pierogie
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $$ — Moderate |
 | ⭐ Must Try | The Pitts-Burgher |
-<div class="summary-box">
-
 </div>
 
 You can get a Primanti sandwich at dozens of locations across Western Pennsylvania now. But it started on one corner in the Strip District, in the middle of the Great Depression, and the story of how it got there is as Pittsburgh as the sandwich itself.

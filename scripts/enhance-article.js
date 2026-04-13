@@ -613,15 +613,11 @@ function processClean(filePath, data, body, frontmatterRaw, dryRun) {
   // 2. Inject callouts into body
   const bodyWithCallouts = injectCallouts(body);
 
-  // 2b. Inject internal links (contextual, first-occurrence only)
-  const currentSlug = path.basename(filePath, ".md");
-  const bodyWithLinks = injectInternalLinks(bodyWithCallouts, currentSlug, LINK_MAP);
-
   // 3. Build FAQ section
   const faqSection = buildFAQ(data, body, category);
 
   // 4. Assemble final content
-  let enhancedBody = bodyWithLinks;
+  let enhancedBody = bodyWithCallouts;
 
   // Insert summary table after first paragraph break
   const firstParaEnd = enhancedBody.indexOf("\n\n");
@@ -658,8 +654,6 @@ const args = process.argv.slice(2).filter((a) => !a.startsWith("--"));
 const dryRun = process.argv.includes("--dry-run");
 const force = process.argv.includes("--force");
 
-// Build once — reused for all files in this run
-const LINK_MAP = buildLinkMap();
 
 if (args.length === 0) {
   console.error("Usage: node scripts/enhance-article.js <file-or-directory> [--dry-run] [--force]");

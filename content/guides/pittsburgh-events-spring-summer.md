@@ -15,8 +15,6 @@ Pittsburgh doesn't do spring and summer halfway. The moment the temperature clim
 | 📍 Area | Point State Park, Cultural District, and Downtown plazas |
 | 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
 | 💡 Pro Tip | Book early for game weekends |
-## May: The Season Opener
-
 ### EQT Pittsburgh Marathon (Early May)
 
 The Pittsburgh Marathon is one of the most scenically dramatic road races in the country. The course crosses nine bridges, winds through a dozen neighborhoods, and gives runners a view of the skyline from angles most visitors never see. Even if you're not running, the race is worth watching — position yourself on the North Shore or at the Fort Pitt Bridge crossing for a front-row seat to the city at its most energized.
@@ -117,9 +115,6 @@ One of the largest Puerto Rican cultural festivals in western Pennsylvania, typi
 ## Planning Your Trip Around the Festivals
 
 The Three Rivers Arts Festival (June) and Pittsburgh Vintage Grand Prix (July) are the two events most worth planning a trip around if you're visiting specifically for the festival experience. Both are free, both are genuinely distinctive, and both show Pittsburgh at its most confident.
-
-> 💡 **Pittsburgh Fact:** The Three Rivers Arts Festival (June) and Pittsburgh Vintage Grand Prix (July) are the two events most worth planning a trip around if you're visiting specifically for the festival experience.
-
 
 For accommodations during festival weekends, book early — the city fills up, particularly for the marathon weekend and the Fourth of July. [Find hotels near Pittsburgh's festival venues](https://trip.tpo.mx/j6OajJW1) before rates climb.
 

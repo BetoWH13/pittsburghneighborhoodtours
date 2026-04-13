@@ -14,8 +14,6 @@ Pittsburgh has always been a beer city. Long before craft brewing was a trend, t
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 💰 Price Range | $ — Budget-friendly |
 | ⭐ Must Try | Before a Pirates game |
-<div class="summary-box">
-
 </div>
 
 Here's where to start.

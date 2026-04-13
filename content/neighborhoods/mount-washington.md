@@ -15,8 +15,6 @@ Perched high above the city, Mount Washington offers some of the most breathtaki
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | The neighborhood is walkable, with most attractions located along or near Grandview Avenue and Shiloh Street |
 | ⭐ Don't Miss | Incline Rides |
-<div class="summary-box">
-
 </div>
 
 ## A View Like No Other

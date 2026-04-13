@@ -15,8 +15,6 @@ Pittsburgh's North Side is a neighborhood that blends the old and the new in per
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Walkability |
-<div class="summary-box">
-
 </div>
 
 ## A Cultural Powerhouse

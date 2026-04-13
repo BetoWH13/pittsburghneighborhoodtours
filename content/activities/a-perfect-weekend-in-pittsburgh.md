@@ -14,8 +14,6 @@ Pittsburgh is a city that rewards the curious. Its 90 neighborhoods are stacked 
 | 🎯 Best For | Foodies |
 | 💰 Cost | Free or low cost |
 | ⭐ Highlight | Carnegie Museum of Natural History |
-<div class="summary-box">
-
 </div>
 
 Here's how to spend a perfect Pittsburgh weekend.

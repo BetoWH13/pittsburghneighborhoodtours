@@ -1,5 +1,6 @@
-import { getPostData, getAllPostSlugs } from "@/lib/posts";
+import { getPostData, getAllPostSlugs, getAllPosts } from "@/lib/posts";
 import { Metadata } from "next";
+import RelatedArticles from "@/components/RelatedArticles";
 
 const BASE_URL = "https://pittsburghneighborhoodtours.com";
 
@@ -42,6 +43,7 @@ export default async function FoodCulturePost({
   params: { slug: string };
 }) {
   const post = await getPostData("food-culture", params.slug);
+  const allPosts = getAllPosts();
   const url = `${BASE_URL}/food-culture/${params.slug}`;
   const jsonLd = {
     "@context": "https://schema.org",
@@ -92,6 +94,12 @@ export default async function FoodCulturePost({
           </div>
         </div>
       )}
+      <RelatedArticles
+        currentSlug={params.slug}
+        currentCategory="food-culture"
+        currentTags={post.tags}
+        allPosts={allPosts}
+      />
     </article>
   );
 }
