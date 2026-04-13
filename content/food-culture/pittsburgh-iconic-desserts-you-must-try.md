@@ -40,6 +40,9 @@ Sarris is famous for its wide variety of chocolates, from classic truffles and c
 Pittsburgh's dessert scene is a testament to the city's rich culinary heritage. Whether you're indulging in a slice of Burnt Almond Torte, enjoying a Klondike Bar on a hot summer day, or sampling the handmade chocolates at Sarris Candies, you're experiencing a piece of Pittsburgh's sweet history.
 
 
+
+[Book your Pittsburgh stay and experience it for yourself](https://trip.tpo.mx/j6OajJW1).
+
 ---
 
 ## Frequently Asked Questions

@@ -67,6 +67,9 @@ Kaya in the Strip District offers Caribbean-inspired cuisine with plenty of vege
 Pittsburgh's vegetarian and vegan food scene continues to grow, offering more options than ever for plant-based diners. Whether you're a lifelong vegan or just looking to try something new, the Steel City has plenty of delicious options waiting for you.
 
 
+
+[Book your Pittsburgh stay and experience it for yourself](https://trip.tpo.mx/j6OajJW1).
+
 ---
 
 ## Frequently Asked Questions

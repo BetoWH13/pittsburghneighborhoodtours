@@ -65,6 +65,9 @@ Highland Park's coffee shops offer a quieter, more residential feel. These are t
 Pittsburgh's coffee culture is as diverse as the city itself. Each neighborhood brings its own flavor to the coffee scene, making it worth exploring beyond your usual spot. Whether you're a pour-over purist or a latte lover, Pittsburgh's independent cafes have something special waiting for you.
 
 
+
+[Book your Pittsburgh stay and experience it for yourself](https://trip.tpo.mx/j6OajJW1).
+
 ---
 
 ## Frequently Asked Questions

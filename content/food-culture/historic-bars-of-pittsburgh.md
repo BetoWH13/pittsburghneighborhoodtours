@@ -93,6 +93,9 @@ Jack's Bar, located on East Carson Street in the South Side, is another historic
 Pittsburgh's historic bars are more than just places to grab a drink—they are a glimpse into the city's past and a testament to its enduring character. Whether you're looking for a classic cocktail, live music, or just a laid-back place to hang out, these historic bars offer something for everyone.
 
 
+
+[Book your Pittsburgh stay and experience it for yourself](https://trip.tpo.mx/j6OajJW1).
+
 ---
 
 ## Frequently Asked Questions

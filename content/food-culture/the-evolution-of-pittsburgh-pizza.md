@@ -50,6 +50,9 @@ Pittsburgh's pizza scene is as diverse and dynamic as the city itself. From the 
 > 💡 **Pittsburgh Fact:** Pittsburgh's pizza scene is as diverse and dynamic as the city itself.
 
 
+
+[Book your Pittsburgh stay and experience it for yourself](https://trip.tpo.mx/j6OajJW1).
+
 ---
 
 ## Frequently Asked Questions
