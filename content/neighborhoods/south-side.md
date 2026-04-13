@@ -16,9 +16,10 @@ Cross the Monongahela on the Birmingham Bridge and you land in the South Side �
 | 🎯 Best For | History lovers, Nightlife seekers |
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
-| ⭐ Don't Miss | The Smiling Moose: |
+| ⭐ Don't Miss | The Smiling Moose |
 
 </div>
+
 The South Side is really two neighborhoods stitched together: **South Side Flats**, the flat stretch along the river anchored by East Carson Street, and **South Side Slopes**, the dramatic hillside community climbing steeply above it.
 
 ### East Carson Street: Pittsburgh's Longest Bar Mile
@@ -52,6 +53,8 @@ The South Side was one of the most productive steelmaking districts in the world
 The South Side is easily accessible from Downtown via the Birmingham or 10th Street Bridges, or from the South Busway. Parking along East Carson can be challenging on weekends; the lots off South 18th Street are your best bet. The **51C** bus runs frequently from Downtown.
 
 The South Side runs at its own pace — fast at night, slow and neighborhood-quiet on Sunday mornings. Both versions are worth knowing. [Book your Pittsburgh stay and see it for yourself](https://trip.tpo.mx/j6OajJW1).
+
+
 ---
 
 ## Frequently Asked Questions

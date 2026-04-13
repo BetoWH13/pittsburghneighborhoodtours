@@ -19,6 +19,7 @@ Pittsburgh is a city steeped in history, and what better way to experience that 
 | 💡 Pro Tip | Book early for game weekends |
 
 </div>
+
 ## 1. Omni William Penn Hotel
 
 **Location:** 530 William Penn Pl, Pittsburgh, PA 15219
@@ -223,6 +224,8 @@ Housed in a mansion built in 1870, The Parador Inn offers a Caribbean-themed get
 Staying in one of Pittsburgh's historic hotels allows you to immerse yourself in the city's rich past while enjoying the conveniences of the present. Each hotel offers a unique story, architectural beauty, and a connection to the events and people that shaped the city. Whether you're a history buff, an architecture enthusiast, or simply seeking a memorable stay, [these hotels provide an experience that goes beyond ordinary accommodations.](https://trip.tpo.mx/j6OajJW1)
 
 > 💡 **Pittsburgh Fact:** Staying in one of Pittsburgh's historic hotels allows you to immerse yourself in the city's rich past while enjoying the conveniences of the present.
+
+
 ---
 
 ## Frequently Asked Questions

@@ -15,9 +15,10 @@ Pittsburgh is a city with lots of famous attractions, but some of the best exper
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | Art & culture |
 | 💰 Cost | Free or low cost |
-| ⭐ Highlight | Arsenal Cider House: |
+| ⭐ Highlight | Arsenal Cider House |
 
 </div>
+
 ## 1. Lawrenceville: Artsy and Full of Surprises
 
 - **Arsenal Cider House:** A small cider house serving handcrafted ciders and meads in a cozy, old-fashioned setting.
@@ -85,6 +86,8 @@ Pittsburgh is a city with lots of famous attractions, but some of the best exper
 ## Conclusion
 
 Pittsburgh's neighborhoods are full of hidden gems waiting to be discovered. Whether you're looking for a unique place to eat, a quiet park, or something totally different, there's always more to explore in this city. Take the time to wander beyond the well-known spots, and you'll find the true heart of Pittsburgh in these hidden treasures.
+
+
 ---
 
 ## Frequently Asked Questions

@@ -15,9 +15,10 @@ Pittsburgh is a great city for families, with lots of activities that are fun fo
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | Families, Outdoor enthusiasts |
 | 💰 Cost | Varies (tickets required for some) |
-| ⭐ Highlight | What to See: |
+| ⭐ Highlight | What to See |
 
 </div>
+
 ## 1. Pittsburgh Zoo & PPG Aquarium
 
 The Pittsburgh Zoo & PPG Aquarium is one of the best places for families to visit. It is located in Highland Park and has animals from all over the world.
@@ -113,6 +114,8 @@ The Senator John Heinz History Center is the biggest history museum in Pennsylva
 - **Check for Discounts:** Many places have family discounts or special prices for kids.
 - **Pack Snacks and Water:** Bringing snacks and water can help keep everyone happy and energized.
 - **Plan for Weather:** Pittsburgh's weather can change quickly, so bring layers, sunscreen, or umbrellas depending on the season.
+
+
 ---
 
 ## Frequently Asked Questions

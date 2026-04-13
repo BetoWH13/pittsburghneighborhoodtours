@@ -18,6 +18,7 @@ Pittsburgh is a city that rewards the curious. Its 90 neighborhoods are stacked 
 | ⭐ Highlight | Carnegie Museum of Natural History |
 
 </div>
+
 Here's how to spend a perfect Pittsburgh weekend.
 
 ## Saturday
@@ -84,6 +85,8 @@ End the weekend with the view that defines Pittsburgh. Take the **Duquesne Incli
 Stay for sunset if the timing is right. There are few better views in American cities than Pittsburgh from the top of Mount Washington on a clear evening, with the gold and red light catching the rivers.
 
 Then come back. Pittsburgh has more weekends to offer. [Find where to stay and plan your trip](https://trip.tpo.mx/j6OajJW1).
+
+
 ---
 
 ## Frequently Asked Questions

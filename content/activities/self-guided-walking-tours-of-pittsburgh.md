@@ -15,9 +15,10 @@ Pittsburgh is a city that's best explored on foot. From historic neighborhoods t
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | History lovers |
 | 💰 Cost | Varies (tickets required for some) |
-| ⭐ Highlight | Arsenal Park: |
+| ⭐ Highlight | Arsenal Park |
 
 </div>
+
 ## 1. Lawrenceville Walking Tour
 
 Lawrenceville is known for its trendy shops, cafes, and historic architecture. Start your walk on Butler Street, the heart of Lawrenceville.
@@ -81,6 +82,8 @@ The South Side is a lively neighborhood with a mix of historic sites and scenic 
 Exploring Pittsburgh on foot is one of the best ways to see the city's unique neighborhoods and hidden treasures. Whether you're interested in history, food, or art, these self-guided walking tours will help you discover what makes Pittsburgh special.
 
 [Browse Guided Tours in Pittsburgh](https://wegotrip.tpo.mx/8gQKSOO6)
+
+
 ---
 
 ## Frequently Asked Questions

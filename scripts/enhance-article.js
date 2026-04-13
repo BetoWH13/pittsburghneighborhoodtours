@@ -259,10 +259,12 @@ function inferSummaryData(data, body, category) {
     inferred.getting_there = "Bus or car from Downtown Pittsburgh";
   }
 
-  // Don't miss — find the first bolded item in a list
-  const boldListMatch = body.match(/- \*\*([^*]+)\*\*/);
-  if (boldListMatch) {
-    inferred.dont_miss = boldListMatch[1].trim();
+  // Don't miss — find first bolded list item that isn't a travel-tip label
+  const skipLabels = /^(Location|Getting Around|Getting There|Parking|Public Transit|Fun Fact|Tip|Note)$/i;
+  const boldListMatches = [...body.matchAll(/- \*\*([^*:]+)(?::\*\*|\*\*:?)/g)];
+  const firstMeaningful = boldListMatches.find((m) => !skipLabels.test(m[1].trim()));
+  if (firstMeaningful) {
+    inferred.dont_miss = firstMeaningful[1].trim();
   } else {
     const firstH3Match = body.match(/### (.+)/);
     inferred.dont_miss = firstH3Match ? firstH3Match[1].trim() : "Local character & hidden gems";
@@ -340,6 +342,7 @@ function buildSummaryTable(data, body, category) {
     ...rows,
     ``,
     `</div>`,
+    ``,
     ``,
   ].join("\n");
 }
@@ -419,7 +422,7 @@ function buildFAQ(data, body, category) {
 
   if (faqs.length === 0) return "";
 
-  const lines = ["", "---", "", "## Frequently Asked Questions", ""];
+  const lines = ["", "", "---", "", "## Frequently Asked Questions", ""];
   faqs.forEach(({ q, a }) => {
     lines.push(`#### ${q}`);
     lines.push(`${a}`);
@@ -429,13 +432,31 @@ function buildFAQ(data, body, category) {
   return lines.join("\n");
 }
 
-// ─── Already Enhanced Check ───────────────────────────────────────────────────
+// ─── Already Enhanced Check & Stripper ───────────────────────────────────────
 
 function isAlreadyEnhanced(body) {
   return (
     body.includes('<div class="summary-box">') ||
     body.includes("## Frequently Asked Questions")
   );
+}
+
+function stripEnhancements(body) {
+  let stripped = body;
+
+  // Remove summary-box div blocks (including the blank lines around them)
+  stripped = stripped.replace(/\n*<div class="summary-box">[\s\S]*?<\/div>\n*/g, "\n\n");
+
+  // Remove Pittsburgh Fact callout blockquotes injected by the script
+  stripped = stripped.replace(/\n+> 💡 \*\*Pittsburgh Fact:\*\*[^\n]*\n/g, "\n");
+
+  // Remove FAQ section from the last --- separator onward (handles \n--- and \n\n---)
+  stripped = stripped.replace(/\n+---\n+## Frequently Asked Questions[\s\S]*$/, "\n");
+
+  // Collapse excess blank lines (3+ → 2)
+  stripped = stripped.replace(/\n{3,}/g, "\n\n");
+
+  return stripped.trimEnd() + "\n";
 }
 
 // ─── Main Processor ───────────────────────────────────────────────────────────
@@ -449,11 +470,21 @@ function processFile(filePath, dryRun, force) {
     return;
   }
 
-  if (!force && isAlreadyEnhanced(body)) {
-    console.log(`  ⏭️  Already enhanced — skipping ${path.basename(filePath)}`);
-    return;
+  if (isAlreadyEnhanced(body)) {
+    if (!force) {
+      console.log(`  ⏭️  Already enhanced — skipping ${path.basename(filePath)}`);
+      return;
+    }
+    // Strip old enhancements before reprocessing
+    const cleaned = stripEnhancements(body);
+    const { data: d2, body: b2, frontmatterRaw: fm2 } = parseFrontmatter(frontmatterRaw + "\n\n" + cleaned);
+    return processClean(filePath, d2, b2, fm2, dryRun);
   }
 
+  return processClean(filePath, data, body, frontmatterRaw, dryRun);
+}
+
+function processClean(filePath, data, body, frontmatterRaw, dryRun) {
   const category = data.category;
 
   // 1. Build summary table
@@ -466,7 +497,6 @@ function processFile(filePath, dryRun, force) {
   const faqSection = buildFAQ(data, body, category);
 
   // 4. Assemble final content
-  // Summary goes before first paragraph (after the opening sentence if it exists)
   let enhancedBody = bodyWithCallouts;
 
   // Insert summary table after first paragraph break
@@ -480,16 +510,9 @@ function processFile(filePath, dryRun, force) {
     enhancedBody = summaryTable + enhancedBody;
   }
 
-  // Append FAQ before the last affiliate link line if present, otherwise at end
-  const lastLinkMatch = enhancedBody.match(/\n\[.+?\]\(https?:\/\/trip\.tpo\.mx.+?\)\s*$/);
-  if (lastLinkMatch && faqSection) {
-    const insertPos = enhancedBody.lastIndexOf(lastLinkMatch[0]);
-    enhancedBody =
-      enhancedBody.slice(0, insertPos) +
-      faqSection +
-      enhancedBody.slice(insertPos);
-  } else if (faqSection) {
-    enhancedBody = enhancedBody.trimEnd() + faqSection;
+  // Append FAQ at end (always after a clean blank line — no setext risk)
+  if (faqSection) {
+    enhancedBody = enhancedBody.trimEnd() + "\n" + faqSection;
   }
 
   const finalContent = frontmatterRaw + "\n\n" + enhancedBody.trimStart();

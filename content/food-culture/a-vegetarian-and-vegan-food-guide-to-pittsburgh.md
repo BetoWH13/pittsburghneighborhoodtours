@@ -15,9 +15,10 @@ Pittsburgh's food scene has evolved far beyond its meat-and-potatoes reputation.
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $ — Budget-friendly |
-| ⭐ Must Try | Check Menus Online: |
+| ⭐ Must Try | Check Menus Online |
 
 </div>
+
 ## 1. Apteka
 
 Apteka is a standout in Pittsburgh's vegan dining scene. Located in Bloomfield, this restaurant draws inspiration from Eastern European cuisine, offering dishes like pierogi, beet tartare, and seasonal vegetable plates. The bar program is equally impressive, with natural wines and creative cocktails.
@@ -67,6 +68,8 @@ Kaya in the Strip District offers Caribbean-inspired cuisine with plenty of vege
 - **Visit Farmers Markets:** Pittsburgh's farmers markets are great places to find fresh, local produce and artisanal vegan products.
 
 Pittsburgh's vegetarian and vegan food scene continues to grow, offering more options than ever for plant-based diners. Whether you're a lifelong vegan or just looking to try something new, the Steel City has plenty of delicious options waiting for you.
+
+
 ---
 
 ## Frequently Asked Questions

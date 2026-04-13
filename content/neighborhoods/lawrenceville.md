@@ -16,9 +16,10 @@ If you ask a Pittsburgher where the city's creative heartbeat lives, the answer 
 | 🎯 Best For | History lovers, Foodies, Art & culture |
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
-| ⭐ Don't Miss | Pusadee's Garden: |
+| ⭐ Don't Miss | Pusadee's Garden |
 
 </div>
+
 Locals divide the neighborhood into Lower, Central, and Upper Lawrenceville, each with its own distinct flavor. But the thread running through all three is the same: independent spirit, craft everything, and a deep pride in where you come from.
 
 ### From Arsenal to Art Gallery
@@ -54,6 +55,8 @@ Just south, toward Penn Avenue, the **Iron Triangle** — once a blighted indust
 Lawrenceville is about 2 miles from Downtown Pittsburgh. Drive up Penn Avenue or Butler Street, or catch the **54C bus** from Downtown. Street parking exists but can be tight on weekends; a few lots off Butler provide relief. Better yet, walk from the Strip District along Penn Avenue for a full east-end immersion.
 
 Lawrenceville isn't the Pittsburgh of the steel era postcards. It's the Pittsburgh that came after — scrappier, more colorful, and absolutely worth your time. [Find a place to stay and make it your base](https://trip.tpo.mx/j6OajJW1).
+
+
 ---
 
 ## Frequently Asked Questions

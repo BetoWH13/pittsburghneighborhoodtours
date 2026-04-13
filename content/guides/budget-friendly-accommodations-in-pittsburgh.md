@@ -19,6 +19,7 @@ Pittsburgh is a city that offers incredible experiences without the hefty price 
 | 💡 Pro Tip | Book early for game weekends |
 
 </div>
+
 ## 1. Hampton Inn & Suites Pittsburgh-Downtown
 
 **Location:** 1247 Smallman St, Pittsburgh, PA 15222
@@ -105,6 +106,8 @@ Located near Oakland's university campuses, this hotel is perfect for those visi
 ## Conclusion
 
 Finding affordable accommodations in Pittsburgh doesn't mean you have to compromise on comfort or convenience. The city offers a [range of hotels](https://trip.tpo.mx/j6OajJW1) that provide excellent amenities, friendly service, and prime locations — all at budget-friendly prices. By choosing any of these options, you can enjoy all that Pittsburgh has to offer while staying within your travel budget.
+
+
 ---
 
 ## Frequently Asked Questions

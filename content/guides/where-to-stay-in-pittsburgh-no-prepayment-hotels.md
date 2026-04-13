@@ -18,6 +18,7 @@ Planning a trip to Pittsburgh? Whether you're visiting for business, sports, or 
 | 💡 Pro Tip | Look for free cancellation options |
 
 </div>
+
 [Find No Prepay Hotels in Pittsburgh Here](https://trip.tpo.mx/j6OajJW1)
 
 ## Why Choose No Prepayment Hotels in Pittsburgh?
@@ -67,6 +68,8 @@ Once you've booked your no prepayment hotel, it's time to experience the best of
 [Book Your Tour](https://wegotrip.tpo.mx/8gQKSOO6) | [Find Your No Prepay Hotel](https://trip.tpo.mx/j6OajJW1)
 
 Travel smart. Stay flexible. Explore Pittsburgh with confidence!
+
+
 ---
 
 ## Frequently Asked Questions

@@ -18,6 +18,7 @@ Pittsburgh's coffee culture is thriving, with independent cafes popping up in ne
 | ⭐ Must Try | Local character & hidden gems |
 
 </div>
+
 ## 1. Lawrenceville
 
 Lawrenceville is home to some of Pittsburgh's most creative coffee shops. Look for spots that combine great coffee with art, community events, and unique atmospheres that reflect the neighborhood's artistic spirit.
@@ -65,6 +66,8 @@ Highland Park's coffee shops offer a quieter, more residential feel. These are t
 ## Conclusion
 
 Pittsburgh's coffee culture is as diverse as the city itself. Each neighborhood brings its own flavor to the coffee scene, making it worth exploring beyond your usual spot. Whether you're a pour-over purist or a latte lover, Pittsburgh's independent cafes have something special waiting for you.
+
+
 ---
 
 ## Frequently Asked Questions

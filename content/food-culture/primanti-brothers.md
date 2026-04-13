@@ -15,9 +15,10 @@ There is no food more Pittsburgh than a Primanti Brothers sandwich. Not pierogie
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $$ — Moderate |
-| ⭐ Must Try | The Pitts-Burgher: |
+| ⭐ Must Try | The Pitts-Burgher |
 
 </div>
+
 You can get a Primanti sandwich at dozens of locations across Western Pennsylvania now. But it started on one corner in the Strip District, in the middle of the Great Depression, and the story of how it got there is as Pittsburgh as the sandwich itself.
 
 ### Born in the Strip, 1933
@@ -48,6 +49,8 @@ The **original Strip District location** is still the one that matters most. The
 ### Getting There
 
 The original Primanti Brothers is at **46 18th Street** in the Strip District, about a 15-minute walk from Downtown Pittsburgh or easily reached via Penn Avenue. It's open daily. The line moves fast. [Book a stay near the Strip and make it your first night's dinner](https://trip.tpo.mx/j6OajJW1).
+
+
 ---
 
 ## Frequently Asked Questions

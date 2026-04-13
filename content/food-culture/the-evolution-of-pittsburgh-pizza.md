@@ -18,6 +18,7 @@ Pittsburgh might be famous for its sandwiches and pierogies, but the city's pizz
 | ⭐ Must Try | Local character & hidden gems |
 
 </div>
+
 ## 1. The Traditional Roots: Classic Pittsburgh Pizza
 
 Pittsburgh's pizza history is rooted in the traditional Italian-American pizzerias that have been serving the community for decades. These establishments, often family-owned, pride themselves on their adherence to time-honored recipes and techniques.
@@ -50,6 +51,8 @@ Spirit in Lawrenceville is known for its experimental approach to pizza. The piz
 Pittsburgh's pizza scene is as diverse and dynamic as the city itself. From the traditional pies that have been a staple for decades to the gourmet and creative pizzas that are pushing the boundaries, there's no shortage of options for pizza lovers in the Steel City. Whether you prefer a classic slice, an artisan creation, or something completely out of the ordinary, Pittsburgh's pizzerias offer a little something for everyone. So next time you're in the mood for pizza, why not explore the many flavors and styles that Pittsburgh has to offer? You might just discover your new favorite slice.
 
 > 💡 **Pittsburgh Fact:** Pittsburgh's pizza scene is as diverse and dynamic as the city itself.
+
+
 ---
 
 ## Frequently Asked Questions

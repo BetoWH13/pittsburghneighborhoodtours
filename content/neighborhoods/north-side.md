@@ -16,9 +16,10 @@ Pittsburgh's North Side is a neighborhood that blends the old and the new in per
 | 🎯 Best For | History lovers, Art & culture, Sports fans |
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
-| ⭐ Don't Miss | Location: |
+| ⭐ Don't Miss | Walkability |
 
 </div>
+
 ## A Cultural Powerhouse
 
 The North Side is synonymous with culture, thanks to its concentration of world-renowned museums and attractions. One of the neighborhood's crown jewels is the Andy Warhol Museum, the largest museum dedicated to a single artist in North America. Here, you can explore the life and works of Pittsburgh's own pop art legend, Andy Warhol, through seven floors of exhibits featuring everything from his iconic paintings to his lesser-known films and prints.
@@ -59,6 +60,8 @@ For those in search of something more adventurous, the North Side offers a range
 - **Family-Friendly:** With attractions like the Carnegie Science Center and the National Aviary, the North Side is a great destination for families.
 
 The North Side is a vibrant and culturally rich neighborhood that offers a perfect mix of history, art, and entertainment. Whether you're exploring its world-class museums, cheering for the home team at Heinz Field, or simply enjoying a stroll through its historic streets, the North Side offers a unique slice of Pittsburgh that's not to be missed.
+
+
 ---
 
 ## Frequently Asked Questions

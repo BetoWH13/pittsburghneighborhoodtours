@@ -18,6 +18,7 @@ Pittsburgh has a sweet side that's just as rich as its industrial heritage. From
 | ⭐ Must Try | Local character & hidden gems |
 
 </div>
+
 ## 1. Burnt Almond Torte: A Pittsburgh Legend
 
 The Burnt Almond Torte is perhaps Pittsburgh's most beloved dessert. This layered cake, featuring vanilla custard between layers of white cake, all covered in a generous coating of caramelized almonds, has been a staple at Pittsburgh celebrations for decades.
@@ -40,6 +41,8 @@ Located just outside Pittsburgh in Canonsburg, Sarris Candies has been crafting 
 Sarris is famous for its wide variety of chocolates, from classic truffles and caramels to seasonal specialties. Their ice cream parlor is a destination in itself, serving generous sundaes and milkshakes alongside their famous candies. A visit to Sarris Candies is a must for anyone with a sweet tooth visiting the Pittsburgh area.
 
 Pittsburgh's dessert scene is a testament to the city's rich culinary heritage. Whether you're indulging in a slice of Burnt Almond Torte, enjoying a Klondike Bar on a hot summer day, or sampling the handmade chocolates at Sarris Candies, you're experiencing a piece of Pittsburgh's sweet history.
+
+
 ---
 
 ## Frequently Asked Questions

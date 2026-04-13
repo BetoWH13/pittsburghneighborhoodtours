@@ -15,9 +15,10 @@ Pittsburgh is a city rich in history, and one of the best ways to experience tha
 | 🍽️ Type | Bars & Drinks |
 | 🎯 Best For | History lovers, Nightlife seekers |
 | 💰 Price Range | $ — Budget-friendly |
-| ⭐ Must Try | History: |
+| ⭐ Must Try | History |
 
 </div>
+
 ## 1. The Original Oyster House
 
 The Original Oyster House, located in Market Square, is Pittsburgh's oldest bar and restaurant. Established in 1870, it has been serving oysters and cold drinks for over 150 years.
@@ -93,6 +94,8 @@ Jack's Bar, located on East Carson Street in the South Side, is another historic
 
 
 Pittsburgh's historic bars are more than just places to grab a drink—they are a glimpse into the city's past and a testament to its enduring character. Whether you're looking for a classic cocktail, live music, or just a laid-back place to hang out, these historic bars offer something for everyone.
+
+
 ---
 
 ## Frequently Asked Questions

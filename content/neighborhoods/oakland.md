@@ -16,9 +16,10 @@ Oakland stands as one of Pittsburgh's most vibrant and dynamic neighborhoods, kn
 | 🎯 Best For | Foodies, Art & culture, Outdoor enthusiasts |
 | ✨ Vibe | Trendy & creative |
 | 🚌 Getting There | The neighborhood is very walkable, with most attractions, restaurants, and parks located within a short distance of each other |
-| ⭐ Don't Miss | Location: |
+| ⭐ Don't Miss | Cultural Treasures |
 
 </div>
+
 ## A Hub of Knowledge and Innovation
 
 At the heart of Oakland are two of the city's most prominent institutions: the University of Pittsburgh and Carnegie Mellon University. These world-renowned universities infuse the neighborhood with youthful energy, cutting-edge research, and a strong sense of community. The iconic Cathedral of Learning, a towering 42-story Gothic Revival building, is the centerpiece of the University of Pittsburgh's campus and a symbol of the neighborhood's academic excellence. Inside, the Nationality Rooms offer a glimpse into the diverse cultures that have shaped both Pittsburgh and the world, each classroom representing a different country's heritage.
@@ -51,6 +52,8 @@ Another gem in Oakland is Panther Hollow, a picturesque ravine within Schenley P
 - **Public Transit:** Oakland is well-served by Pittsburgh's public transit system, with frequent bus service connecting it to other parts of the city.
 
 Oakland is more than just a neighborhood—it's a microcosm of Pittsburgh's academic, cultural, and social life. Whether you're here to explore its museums, enjoy a walk in the park, or experience the buzz of university life, Oakland offers an enriching and unforgettable experience.
+
+
 ---
 
 ## Frequently Asked Questions

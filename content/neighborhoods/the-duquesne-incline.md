@@ -16,9 +16,10 @@ The Duquesne Incline is one of Pittsburgh's most iconic attractions, offering vi
 | 🎯 Best For | History lovers, Foodies |
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
-| ⭐ Don't Miss | Scenic Views: |
+| ⭐ Don't Miss | Scenic Views |
 
 </div>
+
 ## History of the Duquesne Incline
 
 The Duquesne Incline has been part of Pittsburgh since 1877. Originally built to carry workers up and down the steep hillside of Mount Washington, it was an important part of everyday life for the city's residents. Back then, the steep hills made it hard for people to reach their homes, and the incline was the perfect solution. Today, it remains a symbol of Pittsburgh's history and resilience.
@@ -72,6 +73,8 @@ The Duquesne Incline is more than just a way to get up the hill—it's a piece o
 
 
 The Duquesne Incline is a true Pittsburgh treasure, combining history, stunning views, and a fun ride. Whether you're visiting the city or have lived here for years, taking a ride up Mount Washington is a special experience that shows off the beauty and history of Pittsburgh.
+
+
 ---
 
 ## Frequently Asked Questions

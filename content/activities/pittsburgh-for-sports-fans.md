@@ -15,9 +15,10 @@ Pittsburgh is one of a handful of American cities where sports aren't just enter
 | ⏱️ Duration | 2–4 hours |
 | 🎯 Best For | Foodies, Art & culture, Nightlife seekers |
 | 💰 Cost | Free or low cost |
-| ⭐ Highlight | Tailgating: |
+| ⭐ Highlight | Tailgating |
 
 </div>
+
 Three teams. Three venues. All within a mile of each other on the North Shore. No other city in America has anything quite like it.
 
 ### The Pittsburgh Steelers at Acrisure Stadium
@@ -71,6 +72,8 @@ On game days when you're watching from a bar rather than the stadium, Pittsburgh
 You will not fully understand Pittsburgh sports culture from a distance. You have to be here — in the city, in a bar or a stadium, surrounded by people who have been bleeding black and gold since before they could read — to feel what it actually is. It's not civic pride in the normal sense. It's something closer to shared geology. These teams are part of what the ground is made of here.
 
 Come for a game. Stay for the neighborhood. [Find your Pittsburgh home base](https://trip.tpo.mx/j6OajJW1).
+
+
 ---
 
 ## Frequently Asked Questions

@@ -18,6 +18,7 @@ Pittsburgh, affectionately known as the "City of Bridges," is a vibrant metropol
 | 💡 Pro Tip | Book early for game weekends |
 
 </div>
+
 ## Downtown (Central Business District)
 
 The heart of the city, Downtown Pittsburgh is a bustling area filled with skyscrapers, historic landmarks, and a dynamic cultural scene. It's home to the Cultural District, Market Square, and an array of restaurants, shops, and theaters.
@@ -127,6 +128,8 @@ Pittsburgh's neighborhoods each tell a story, reflecting the city's rich history
 
 
 [Find flights to Pittsburgh](https://aviasales.tpo.mx/ECbnq2rn) | [Plan your visit to Pittsburgh today](https://trip.tpo.mx/j6OajJW1) and discover the unique charms of its neighborhoods firsthand!
+
+
 ---
 
 ## Frequently Asked Questions
