@@ -8,6 +8,13 @@ tags: ["Pittsburgh traditions", "Pittsburgh culture", "Pittsburgh Rubber Duck Re
 
 Every city has events. Pittsburgh has traditions. There's a difference — events are things that happen; traditions are things people participate in as an expression of who they are. The Steelers Terrible Towel isn't a souvenir, it's a declaration. Light Up Night isn't a shopping promotion, it's a half-million people standing in the cold together because that's what you do. The Rubber Duck Regatta isn't absurd — or rather, it is absurd, but deliberately, joyfully so, in a way that only makes sense in a city that has learned not to take itself too seriously.
 
+| | |
+|---|---|
+| 💰 Budget | $$ — Moderate |
+| 🎯 Best For | All visitors |
+| 📍 Area | Allegheny River waterfront, North Shore |
+| 🏨 Booking | [Check availability](https://trip.tpo.mx/j6OajJW1) |
+| 💡 Pro Tip | Book early for game weekends |
 These are the recurring events that, year after year, make Pittsburgh feel like Pittsburgh.
 
 ---
@@ -30,6 +37,9 @@ The Regatta itself is worth attending separately — powerboat racing, air shows
 
 Described in more detail in the winter events guide, but Light Up Night belongs here too because it's not just an event — it's a civic reset. The moment the downtown lights come on, Pittsburgh emotionally transitions into the holiday season. Half a million people. The bridges lit. Fireworks over the river. The city's skyline in its winter dress.
 
+> 💡 **Pittsburgh Fact:** Described in more detail in the winter events guide, but Light Up Night belongs here too because it's not just an event — it's a civic reset.
+
+
 Pittsburghers who moved away fly home for this. That's how you know it's a tradition.
 
 ---
@@ -49,6 +59,9 @@ For visitors, attending a Steelers home game is the fastest way to understand so
 ## The Pittsburgh Marathon (May)
 
 The Pittsburgh Marathon crosses nine bridges, winds through a dozen neighborhoods, and asks runners to climb the hills that make Pittsburgh a cartographer's nightmare. It's one of the most visually spectacular marathons in the country — you spend miles with the skyline visible ahead, behind, or below you, depending on which bridge you're on.
+
+> 💡 **Pittsburgh Fact:** The Pittsburgh Marathon crosses nine bridges, winds through a dozen neighborhoods, and asks runners to climb the hills that make Pittsburgh a cartographer's nightmare.
+
 
 Even as a spectator, the marathon reveals the city in a way that nothing else does. Stand on the Smithfield Street Bridge at mile 5 or the North Shore at mile 18 and watch the city support its runners. The volunteer culture, the neighborhood-specific signs (Oakland runners get Carnegie Mellon students cheering in costumes), the Primanti Brothers station at mile 23 — it's a collective act of municipal pride.
 
@@ -82,6 +95,9 @@ The tradition here isn't pickles. It's the city's willingness to be weird with f
 
 Not an event but an annual ritual for locals: the Three Rivers Heritage Trail is a 24-mile loop along the banks of the Allegheny, Monongahela, and Ohio rivers. Pittsburghers use it year-round — running it, cycling it, walking it in sections. In May the wildflowers along the Allegheny section are extraordinary; in October the fall color reflects in the water.
 
+> 💡 **Pittsburgh Fact:** Not an event but an annual ritual for locals: the Three Rivers Heritage Trail is a 24-mile loop along the banks of the Allegheny, Monongahela, and Ohio rivers.
+
+
 Completing the full loop is a Pittsburgh rite of passage.
 
 ---
@@ -91,3 +107,17 @@ Completing the full loop is a Pittsburgh rite of passage.
 Pittsburgh is a city that went through a genuine crisis — the collapse of the steel industry in the 1980s eliminated 150,000 jobs in a decade. What came out of that experience was a city that learned to value what it had: its neighborhoods, its rivers, its specific quirks and rituals. The traditions listed here aren't marketing constructions. They're what a city does when it decides to survive.
 
 Visiting Pittsburgh during any of these events means participating in something that has real meaning to the people who live here. That's rarer than it sounds. [Plan your visit around Pittsburgh's traditions](https://trip.tpo.mx/j6OajJW1) and book early — the city fills up for the events that matter most to it.
+
+
+---
+
+## Frequently Asked Questions
+
+#### Do Pittsburgh hotels fill up quickly?
+During Steelers home games, major conventions, and summer weekends, Pittsburgh hotels book up fast — often weeks in advance. Booking early and looking for free-cancellation options gives you the most flexibility.
+
+#### What Pittsburgh neighborhoods are best for hotels?
+Downtown (the Golden Triangle) is most convenient for attractions and stadiums. The North Shore is ideal for sports events. Oakland works well for museum visits and university business. The South Side and Lawrenceville suit visitors who want nightlife nearby.
+
+#### Is there an airport hotel near Pittsburgh International?
+Yes — several hotels cluster around Pittsburgh International Airport (PIT) in Moon Township, about 20 minutes west of Downtown. They're convenient for early flights but distant from the city's neighborhoods.
