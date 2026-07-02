@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import ExternalLinkBehavior from "@/components/ExternalLinkBehavior";
 import "./globals.css";
 
 const BASE_URL = "https://pittsburghneighborhoodtours.com";
@@ -48,6 +49,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body>
+        <ExternalLinkBehavior />
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />

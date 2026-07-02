@@ -6,6 +6,10 @@ import html from "remark-html";
 import remarkGfm from "remark-gfm";
 
 const contentDirectory = path.join(process.cwd(), "content");
+const INTERNAL_HOSTS = new Set([
+  "pittsburghneighborhoodtours.com",
+  "www.pittsburghneighborhoodtours.com",
+]);
 
 export interface PostData {
   slug: string;
@@ -24,6 +28,38 @@ export interface PostMeta {
   date: string;
   category: string;
   tags: string[];
+}
+
+function addExternalLinkAttrs(contentHtml: string): string {
+  return contentHtml.replace(/<a\b[^>]*href="([^"]+)"[^>]*>/gi, (anchorTag, href) => {
+    if (!/^https?:\/\//i.test(href)) return anchorTag;
+
+    try {
+      const { hostname } = new URL(href);
+      if (INTERNAL_HOSTS.has(hostname)) return anchorTag;
+    } catch {
+      return anchorTag;
+    }
+
+    let nextAnchorTag = anchorTag;
+
+    if (!/\btarget\s*=/i.test(nextAnchorTag)) {
+      nextAnchorTag = nextAnchorTag.replace(/<a\b/i, '<a target="_blank"');
+    }
+
+    if (/\brel\s*=\s*(['"])(.*?)\1/i.test(nextAnchorTag)) {
+      nextAnchorTag = nextAnchorTag.replace(/\brel\s*=\s*(['"])(.*?)\1/i, (_, quote, value) => {
+        const relTokens = new Set(String(value).split(/\s+/).filter(Boolean));
+        relTokens.add("noopener");
+        relTokens.add("noreferrer");
+        return `rel=${quote}${Array.from(relTokens).join(" ")}${quote}`;
+      });
+    } else {
+      nextAnchorTag = nextAnchorTag.replace(/<a\b/i, '<a rel="noopener noreferrer"');
+    }
+
+    return nextAnchorTag;
+  });
 }
 
 function getPostsFromDir(dir: string): PostMeta[] {
@@ -64,7 +100,7 @@ export async function getPostData(
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
   const processedContent = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
-  const contentHtml = processedContent.toString();
+  const contentHtml = addExternalLinkAttrs(processedContent.toString());
   return {
     slug,
     title: data.title || slug,

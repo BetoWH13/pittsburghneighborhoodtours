@@ -15,7 +15,6 @@ The Duquesne Incline is one of Pittsburgh's most iconic attractions, offering vi
 | ✨ Vibe | Historic & charming |
 | 🚌 Getting There | Bus or car from Downtown Pittsburgh |
 | ⭐ Don't Miss | Scenic Views |
-</div>
 
 ## History of the Duquesne Incline
 

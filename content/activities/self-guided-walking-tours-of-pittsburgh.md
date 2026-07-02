@@ -14,7 +14,6 @@ Pittsburgh is a city that's best explored on foot. From historic neighborhoods t
 | 🎯 Best For | History lovers |
 | 💰 Cost | Varies (tickets required for some) |
 | ⭐ Highlight | Arsenal Park |
-</div>
 
 ## 1. Lawrenceville Walking Tour
 

@@ -14,7 +14,6 @@ Pittsburgh is a great city for families, with lots of activities that are fun fo
 | 🎯 Best For | Families, Outdoor enthusiasts |
 | 💰 Cost | Varies (tickets required for some) |
 | ⭐ Highlight | What to See |
-</div>
 
 ## 1. Pittsburgh Zoo & PPG Aquarium
 

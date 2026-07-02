@@ -14,7 +14,6 @@ Pittsburgh's food scene has evolved far beyond its meat-and-potatoes reputation.
 | 🎯 Best For | Foodies |
 | 💰 Price Range | $ — Budget-friendly |
 | ⭐ Must Try | Check Menus Online |
-</div>
 
 ## 1. Apteka
 
