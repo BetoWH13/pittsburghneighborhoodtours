@@ -36,6 +36,14 @@ interface ItineraryDay {
   slots: ItinerarySlot[];
 }
 
+interface StayRecommendation {
+  area: string;
+  summary: string;
+  internalLink: string;
+  internalLabel: string;
+  bookingLabel: string;
+}
+
 // ─── Content Database ─────────────────────────────────────────────────────────
 // Maps interests/style to real site articles
 
@@ -416,6 +424,122 @@ function generateItinerary(state: PlannerState): ItineraryDay[] {
   return days;
 }
 
+function getStayRecommendation(state: {
+  tripLength: TripLength;
+  interests: Interest[];
+  travelStyle: TravelStyle;
+}): StayRecommendation {
+  const hasInterest = (interest: Interest) => state.interests.includes(interest);
+
+  if (state.tripLength === "1day") {
+    if (hasInterest("sports")) {
+      return {
+        area: "North Shore or Downtown",
+        summary:
+          "Best if your day revolves around PNC Park, Acrisure Stadium, or a quick-hit skyline-and-stadium version of Pittsburgh.",
+        internalLink: "/guides/where-to-stay-in-pittsburgh-no-prepayment-hotels",
+        internalLabel: "Compare Downtown and North Shore hotel areas",
+        bookingLabel: "Check Downtown and North Shore hotels",
+      };
+    }
+
+    if (hasInterest("arts") || hasInterest("history") || hasInterest("family")) {
+      return {
+        area: "Downtown or Oakland",
+        summary:
+          "Downtown keeps the city core easy; Oakland works better if museums, universities, or family attractions anchor the day.",
+        internalLink: "/guides/where-to-stay-in-pittsburgh-no-prepayment-hotels",
+        internalLabel: "Compare Pittsburgh hotel areas",
+        bookingLabel: "Check central Pittsburgh hotels",
+      };
+    }
+
+    return {
+      area: "Downtown",
+      summary:
+        "For a one-day first visit, Downtown is the easiest base for walking, transit, and a clean skyline-to-riverfront itinerary.",
+      internalLink: "/guides/where-to-stay-in-pittsburgh-no-prepayment-hotels",
+      internalLabel: "See the best first-time visitor hotel areas",
+      bookingLabel: "Check Downtown Pittsburgh hotels",
+    };
+  }
+
+  if (state.tripLength === "weekend") {
+    if (hasInterest("food") || hasInterest("nightlife")) {
+      return {
+        area: "Strip District, Lawrenceville, or the South Side",
+        summary:
+          "These neighborhoods fit restaurant-heavy, bar-heavy weekends better than a generic suburban hotel block.",
+        internalLink: "/guides/a-locals-guide-to-pittsburghs-neighborhoods",
+        internalLabel: "Compare neighborhood vibes before booking",
+        bookingLabel: "Check neighborhood stays in Pittsburgh",
+      };
+    }
+
+    if (hasInterest("sports")) {
+      return {
+        area: "North Shore or Downtown",
+        summary:
+          "Stay close to the stadium district if the game is the center of the weekend, with Downtown as the easier fallback for everything else.",
+        internalLink: "/guides/where-to-stay-in-pittsburgh-no-prepayment-hotels",
+        internalLabel: "Compare sports-trip hotel areas",
+        bookingLabel: "Check North Shore and Downtown hotels",
+      };
+    }
+
+    if (hasInterest("arts") || hasInterest("history")) {
+      return {
+        area: "Downtown or Oakland",
+        summary:
+          "Downtown works for broad city access; Oakland makes sense when museums and university landmarks drive the trip.",
+        internalLink: "/guides/where-to-stay-in-pittsburgh-no-prepayment-hotels",
+        internalLabel: "Compare museum and first-time visitor hotel areas",
+        bookingLabel: "Check Pittsburgh weekend hotel availability",
+      };
+    }
+
+    return {
+      area: "Downtown or the East End",
+      summary:
+        "Downtown is the easiest first-time base, while the East End gives you more neighborhood texture if you want Pittsburgh to feel less corporate.",
+      internalLink: "/guides/a-locals-guide-to-pittsburghs-neighborhoods",
+      internalLabel: "See which neighborhood fits your weekend",
+      bookingLabel: "Check Pittsburgh weekend stays",
+    };
+  }
+
+  if (hasInterest("food") || hasInterest("nightlife")) {
+    return {
+      area: "Lawrenceville, the Strip District, or the East End",
+      summary:
+        "Longer trips with restaurant and nightlife priorities work better when your base feels like a neighborhood instead of a hotel district.",
+      internalLink: "/guides/a-locals-guide-to-pittsburghs-neighborhoods",
+      internalLabel: "Compare the best neighborhood bases",
+      bookingLabel: "Check longer-stay neighborhood hotels",
+    };
+  }
+
+  if (hasInterest("outdoors") || hasInterest("family")) {
+    return {
+      area: "The East End or South Hills",
+      summary:
+        "These areas suit slower trips built around parks, family visits, and repeat outings better than a Downtown-only base.",
+      internalLink: "/neighborhoods/pittsburgh-suburbs",
+      internalLabel: "Use the suburbs guide to narrow the right side of town",
+      bookingLabel: "Check family-friendly Pittsburgh stays",
+    };
+  }
+
+  return {
+    area: "Downtown for convenience or the East End for neighborhood feel",
+    summary:
+      "For a 3+ day trip, the choice is usually between easy city logistics and a base with more local texture.",
+    internalLink: "/guides/where-to-stay-in-pittsburgh-no-prepayment-hotels",
+    internalLabel: "Compare longer-stay hotel areas",
+    bookingLabel: "Check multi-day Pittsburgh hotel options",
+  };
+}
+
 // ─── Step Components ──────────────────────────────────────────────────────────
 
 function StepIndicator({ step, total }: { step: number; total: number }) {
@@ -480,6 +604,16 @@ export default function PlannerPage() {
   });
   const [itinerary, setItinerary] = useState<ItineraryDay[] | null>(null);
 
+  const finalizedState = {
+    tripLength: state.tripLength ?? "weekend",
+    interests:
+      state.interests.length === 0
+        ? (["food", "history"] as Interest[])
+        : state.interests,
+    travelStyle: state.travelStyle ?? "balanced",
+  };
+  const stayRecommendation = getStayRecommendation(finalizedState);
+
   function toggleInterest(interest: Interest) {
     setState((prev) => ({
       ...prev,
@@ -490,12 +624,7 @@ export default function PlannerPage() {
   }
 
   function generate() {
-    const effectiveState = {
-      ...state,
-      interests: state.interests.length === 0 ? (["food", "history"] as Interest[]) : state.interests,
-      travelStyle: state.travelStyle ?? "balanced",
-    };
-    setItinerary(generateItinerary(effectiveState));
+    setItinerary(generateItinerary(finalizedState));
     setStep(4);
   }
 
@@ -768,23 +897,36 @@ export default function PlannerPage() {
             ))}
           </div>
 
-          {/* Hotel CTA */}
-          <div className="mt-10 p-6 bg-gradient-to-r from-primary to-secondary text-white rounded-2xl text-center">
-            <div className="text-3xl mb-3">🏨</div>
-            <h3 className="text-xl font-heading font-bold mb-2">
-              Ready to book your Pittsburgh stay?
+          {/* Stay Recommendation */}
+          <div className="mt-10 rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
+            <div className="text-xs font-semibold uppercase tracking-[0.2em] text-accent mb-3">
+              Best Stay Area For This Trip
+            </div>
+            <h3 className="text-2xl font-heading font-bold text-primary mb-2">
+              {stayRecommendation.area}
             </h3>
-            <p className="text-gray-300 text-sm mb-4">
-              Find hotels near all the spots in your itinerary.
+            <p className="text-gray-600 leading-relaxed mb-5">
+              {stayRecommendation.summary}
             </p>
-            <a
-              href="https://trip.tpo.mx/j6OajJW1"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block bg-gold text-primary font-bold px-6 py-2.5 rounded-lg hover:bg-yellow-400 transition-colors"
-            >
-              Find Hotels in Pittsburgh
-            </a>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href={stayRecommendation.internalLink}
+                className="inline-block rounded-lg border-2 border-primary px-5 py-2.5 font-semibold text-primary hover:bg-primary hover:text-white transition-colors"
+              >
+                {stayRecommendation.internalLabel}
+              </a>
+              <a
+                href="https://trip.tpo.mx/j6OajJW1"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block rounded-lg bg-gold px-5 py-2.5 font-bold text-primary hover:bg-yellow-400 transition-colors"
+              >
+                {stayRecommendation.bookingLabel}
+              </a>
+            </div>
+            <p className="text-sm text-gray-500 mt-4 mb-0">
+              If flexible cancellation matters, compare these with the no-prepayment options in our Pittsburgh hotel guide before you book.
+            </p>
           </div>
 
           <div className="mt-6 text-center">
@@ -800,3 +942,4 @@ export default function PlannerPage() {
     </main>
   );
 }
+
