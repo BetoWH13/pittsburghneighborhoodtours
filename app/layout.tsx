@@ -36,7 +36,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <Script id="stay22-lma" strategy="beforeInteractive">
+        <Script id="stay22-lma" strategy="lazyOnload">
           {`(function (s, t, a, y, twenty, two) {
     s.Stay22 = s.Stay22 || {};
     s.Stay22.params = { lmaID: '6a46b0b5e18927584a1fa249' };
