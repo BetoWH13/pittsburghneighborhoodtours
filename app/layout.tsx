@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 
 const BASE_URL = "https://pittsburghneighborhoodtours.com";
@@ -33,6 +34,19 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <Script id="stay22-lma" strategy="beforeInteractive">
+          {`(function (s, t, a, y, twenty, two) {
+    s.Stay22 = s.Stay22 || {};
+    s.Stay22.params = { lmaID: '6a46b0b5e18927584a1fa249' };
+    twenty = t.createElement(a);
+    two = t.getElementsByTagName(a)[0];
+    twenty.async = 1;
+    twenty.src = y;
+    two.parentNode.insertBefore(twenty, two);
+  })(window, document, 'script', 'https://scripts.stay22.com/letmeallez.js');`}
+        </Script>
+      </head>
       <body>
         <Header />
         <main className="min-h-screen">{children}</main>
