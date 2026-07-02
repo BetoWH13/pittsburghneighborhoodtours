@@ -68,8 +68,9 @@ function Header() {
         <div className="hidden md:flex items-center gap-5 text-sm">
           <a href="/" className="hover:text-gold transition-colors">Home</a>
           <a href="/neighborhoods" className="hover:text-gold transition-colors">Neighborhoods</a>
-          <a href="/food-culture" className="hover:text-gold transition-colors">Food & Culture</a>
+          <a href="/food-culture" className="hover:text-gold transition-colors">Food &amp; Culture</a>
           <a href="/activities" className="hover:text-gold transition-colors">Activities</a>
+          <a href="/where-to-stay" className="hover:text-gold transition-colors">Where to Stay</a>
           <a href="/guides" className="hover:text-gold transition-colors">Guides</a>
           <a href="/planner" className="bg-gold text-primary font-bold px-3 py-1.5 rounded-lg hover:bg-yellow-400 transition-colors text-xs">🗺️ Planner</a>
           <a href="/search" className="hover:text-gold transition-colors" aria-label="Search">🔍</a>
@@ -92,8 +93,9 @@ function MobileMenu() {
         <div className="absolute right-0 top-full mt-2 w-48 bg-white text-gray-800 rounded-lg shadow-xl py-2 z-50">
           <a href="/" className="block px-4 py-2 hover:bg-gray-100">Home</a>
           <a href="/neighborhoods" className="block px-4 py-2 hover:bg-gray-100">Neighborhoods</a>
-          <a href="/food-culture" className="block px-4 py-2 hover:bg-gray-100">Food & Culture</a>
+          <a href="/food-culture" className="block px-4 py-2 hover:bg-gray-100">Food &amp; Culture</a>
           <a href="/activities" className="block px-4 py-2 hover:bg-gray-100">Activities</a>
+          <a href="/where-to-stay" className="block px-4 py-2 hover:bg-gray-100">Where to Stay</a>
           <a href="/guides" className="block px-4 py-2 hover:bg-gray-100">Guides</a>
           <a href="/planner" className="block px-4 py-2 hover:bg-gray-100 font-semibold text-accent">🗺️ Trip Planner</a>
           <a href="/search" className="block px-4 py-2 hover:bg-gray-100">🔍 Search</a>
@@ -119,8 +121,9 @@ function Footer() {
             <h3 className="text-lg font-heading font-bold mb-4 text-gold">Explore</h3>
             <ul className="space-y-2 text-sm">
               <li><a href="/neighborhoods" className="text-gray-300 hover:text-white transition-colors">Neighborhoods</a></li>
-              <li><a href="/food-culture" className="text-gray-300 hover:text-white transition-colors">Food & Culture</a></li>
+              <li><a href="/food-culture" className="text-gray-300 hover:text-white transition-colors">Food &amp; Culture</a></li>
               <li><a href="/activities" className="text-gray-300 hover:text-white transition-colors">Activities</a></li>
+              <li><a href="/where-to-stay" className="text-gray-300 hover:text-white transition-colors">Where to Stay</a></li>
               <li><a href="/guides" className="text-gray-300 hover:text-white transition-colors">Guides</a></li>
               <li><a href="/planner" className="text-gold hover:text-white transition-colors font-semibold">🗺️ Trip Planner</a></li>
               <li><a href="/search" className="text-gray-300 hover:text-white transition-colors">🔍 Search</a></li>
