@@ -140,6 +140,8 @@ function Footer() {
           <div className="flex flex-wrap justify-center gap-4 mb-4">
             <a href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</a>
             <span>|</span>
+            <a href="/disclaimer" className="hover:text-white transition-colors">Disclaimer</a>
+            <span>|</span>
             <a href="/affiliate-disclosure" className="hover:text-white transition-colors">Affiliate Disclosure</a>
           </div>
           <p>&copy; {new Date().getFullYear()} Pittsburgh Neighborhood Tours. All rights reserved.</p>
